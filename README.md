@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS, GitHub, Fivetran, Looker, dbt, Prefect, & Snowflake<br>🌱 I’m currently learning more about AI<br>💬 Data engineering, AI, and data analytics<br>⚡ I love national parks and hiking
+🔭 I’m currently working as a Senior Data Engineer with AWS, Fivetran, Looker, dbt, Prefect, Python, & Snowflake<br>🌱 I’m currently learning more about AI<br>💬 Data engineering, AI, and data analytics<br>⚡ I love national parks and hiking
 
 
 ## 🌐 Socials:
