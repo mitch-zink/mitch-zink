@@ -1,19 +1,10 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working as a Senior Data Engineer with AWS, Fivetran, Looker, dbt, Prefect, Python, & Snowflake<br>🌱 I’m currently learning more about AI<br>💬 Data engineering, AI, and data analytics<br>⚡ I love national parks and hiking
 
-
-
-
-
-
-
-
-
-
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zinkmitch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mitchzink) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitch-zink) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mzink_7849) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mitchzink) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 [![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/-Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
@@ -27,7 +18,7 @@
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue?style=for-the-badge&logo=snowflake&logoColor=white)](https://snowflake.com/)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mitch-zink&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch-zink&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
