@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working as a Senior Data Engineer with AWS, Fivetran, Looker, dbt, Prefect, Python, & Snowflake<br>🌱 I’m currently learning more about AI<br>💬 Data engineering, AI, and data analytics<br>⚡ I love national parks and hiking
+🔭 Current Projects: I’m working as a Senior Data Engineer with AWS, Fivetran, Looker, dbt, Prefect, Python, & Snowflake<br>🌱 Learning More about: AI and data science<br>💬 Ask me about data engineering and/or data analytics<br>⚡ Hobbies: I love national parks and hiking
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/zinkmitch)
