@@ -4,12 +4,18 @@
 - 💬 **Ask me about:** Data Engineering, Data Analytics
 - ⚡ **Hobbies:** Exploring National Parks, Hiking
 
+<br />
+<br />
+
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/zinkmitch)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mitchzink)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitch-zink)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mzink_7849)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mitchzink)
+
+<br />
+<br />
 
 # 💻 Tech Stack
 [![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -24,20 +30,35 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://snowflake.com/)
 
+<br />
+<br />
+
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mitch-zink&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch-zink&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br />
+<br />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mitch-zink&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+<br />
+<br />
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<br />
+<br />
+
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mitch-zink&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+<br />
+<br />
+
+## 
 [![](https://visitcount.itsvg.in/api?id=mitch-zink&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
