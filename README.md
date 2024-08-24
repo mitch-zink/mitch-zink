@@ -1,5 +1,5 @@
 # 💫 About Me
-- 🔭 **Current Projects:** Senior Data Engineer | AWS, Fivetran, Looker, dbt, Prefect, Python, Snowflake
+- 🔭 **Current Projects:** Senior Data Engineer | AWS, Looker, dbt, Prefect, Python, Snowflake
 - 🌱 **Learning more about:** AI and Data Science
 - 💬 **Ask me about:** Data Engineering, Data Analytics
 - ⚡ **Hobbies:** Exploring National Parks, Hiking
