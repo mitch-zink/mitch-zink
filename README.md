@@ -6,7 +6,7 @@
 
 <br />
 
-## 🌐 Socials
+# 🌐 Socials
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/zinkmitch)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mitchzink)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitch-zink)
@@ -36,17 +36,17 @@
 
 <br />
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mitch-zink&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 <br />
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br />
 
-## 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mitch-zink&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br />
