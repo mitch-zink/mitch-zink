@@ -99,8 +99,6 @@
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Prefect](https://img.shields.io/badge/-Prefect-5C4EE5?style=for-the-badge&logo=prefect&logoColor=white)](https://prefect.io/)
 
-[![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/)
-
 ## 🔒 Security & Compliance
 [![Akido](https://img.shields.io/badge/-Akido-6B46C1?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyUzYuNDggMjIgMTIgMjJTMjIgMTcuNTIgMjIgMTJTMTcuNTIgMiAxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)](https://www.akido.io/)
 [![Semgrep](https://img.shields.io/badge/-Semgrep-43B02A?style=for-the-badge&logo=semgrep&logoColor=white)](https://semgrep.dev/)
