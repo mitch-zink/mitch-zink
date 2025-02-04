@@ -22,7 +22,7 @@
 # 💻 Tech Stack
 
 ## 📊 Analytics & Visualization
-[![Looker](https://img.shields.io/badge/-Looker%20(Original)-017FFF?style=for-the-badge&logo=looker&logoColor=white)](https://looker.com/)
+[![Looker](https://img.shields.io/badge/-Looker-017FFF?style=for-the-badge&logo=looker&logoColor=white)](https://looker.com/)
 [![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/)
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![SSRS](https://img.shields.io/badge/-SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/reporting-services/)
