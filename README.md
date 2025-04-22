@@ -54,7 +54,7 @@
 
 ## 🌊 Data Lake
 [![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
-[![Azure Blob Storage](https://img.shields.io/badge/-Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/storage/blobs/)
+[![Azure Blob](https://img.shields.io/badge/-Azure%20Blob-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/storage/blobs/)
 [![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)](https://delta.io/)
 [![Google Cloud Storage](https://img.shields.io/badge/-Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/storage)
 
