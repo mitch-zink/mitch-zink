@@ -81,7 +81,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ## 🗄️ OLAP
-[![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)](https://aws.amazon.com/redshift/)
+[![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)](https://aws.amazon.com/redshift/)
 [![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
 [![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
 [![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
