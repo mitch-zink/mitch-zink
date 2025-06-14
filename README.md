@@ -70,7 +70,7 @@
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 ## 🏗️ Infrastructure as Code (IaC)
-[![AWS CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/cloudformation/)
+[![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/cloudformation/)
 [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 ## 💻 Languages
