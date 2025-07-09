@@ -51,11 +51,17 @@
 ## 🗄️ Data Warehouses & Databases
 
 [![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
-[![Ducklake](https://img.shields.io/badge/-Ducklake-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/duckdb/ducklake)
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://snowflake.com/)
+
+## 🌊 Data Lakes
+
+[![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
+[![Azure Blob Storage](https://img.shields.io/badge/-Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/products/storage/blobs/)
+[![DuckLake](https://img.shields.io/badge/-DuckLake-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/duckdb/ducklake)
+[![Google Cloud Storage](https://img.shields.io/badge/-Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/storage)
 
 ## 💻 Languages & Tools
 
