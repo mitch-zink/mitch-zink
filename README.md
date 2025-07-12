@@ -113,7 +113,7 @@
 
 # 💼 Work History
 
-## <img src="https://logo.clearbit.com/zelis.com" alt="Zelis Healthcare Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Senior Data Engineer @ Zelis Healthcare
+## <img src="https://logo.clearbit.com/zelis.com" alt="Zelis Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Senior Data Engineer @ Zelis Healthcare
 
 📅 **March 2023 - September 2023** • 📍 **St Petersburg, FL**
 
