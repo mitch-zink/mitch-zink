@@ -38,6 +38,7 @@
 [![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)](https://airbyte.com/)
 [![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/products/data-factory/)
 [![dbt](https://img.shields.io/badge/-dbt-FF6973?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
+[![dltHub](https://img.shields.io/badge/-dltHub-FF6B35?style=for-the-badge&logoColor=white)](https://dlthub.com/)
 [![Fivetran](https://img.shields.io/badge/-Fivetran-0073E6?style=for-the-badge&logo=fivetran&logoColor=white)](https://fivetran.com/)
 [![Snowpipe](https://img.shields.io/badge/-Snowpipe-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://docs.snowflake.com/en/user-guide/data-load-snowpipe)
 [![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://docs.microsoft.com/en-us/sql/integration-services/)
@@ -81,8 +82,10 @@
 [![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ## 🛠️ Development Tools
+[![curl](https://img.shields.io/badge/-curl-073551?style=for-the-badge&logo=curl&logoColor=white)](https://curl.se/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ## 🚀 Orchestration & Workflow
 [![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
