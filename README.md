@@ -131,7 +131,7 @@
 - Developed and continuously improved interactive dashboards and dynamic reports in Looker (original), Power BI, and SSRS, translating complex data into actionable insights for both internal stakeholders and external clients
 - Created CI/CD workflows with GitHub actions across Looker, Snowflake, dbt Cloud, and GitHub—ensuring reliable, fast delivery of new features via pull requests
 
-## <img src="https://logo.clearbit.com/upmc.com" alt="UPMC Health Plan Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Business Intelligence Developer II @ UPMC Health Plan
+## <img src="https://logo.clearbit.com/upmc.com" alt="UPMC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Business Intelligence Developer II @ UPMC Health Plan
 
 📅 **March 2019 - June 2021** • 📍 **Pittsburgh, PA**
 
