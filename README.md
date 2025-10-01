@@ -52,7 +52,7 @@
 [![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CA0000?style=for-the-badge&logoColor=white)](https://www.sqlalchemy.org/)
 [![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://docs.microsoft.com/en-us/sql/integration-services/)
 
-## 🌊 Data Lake
+## 🌊 Data Lakes
 [![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
 [![Azure Blob](https://img.shields.io/badge/-Azure%20Blob-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/storage/blobs/)
 [![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)](https://delta.io/)
