@@ -111,55 +111,6 @@
 
 <br />
 
-# 💼 Work History
-
-## <img src="https://logo.clearbit.com/zelis.com" alt="Zelis Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Senior Data Engineer @ Zelis Healthcare
-
-📅 **March 2023 - September 2023** • 📍 **St Petersburg, FL**
-
-- Implemented Azure Data Factory pipelines to move data from SQL Server to Azure Blob Storage as Parquet, then streamed it into Snowflake via Snowpipe for near-real-time ingestion
-- Led development of a complex dbt Cloud project transforming raw Snowflake data into a well-modeled analytics layer used directly in Power BI and SSRS
-- Set up CI/CD workflows in Azure DevOps to push changes to Snowflake and dbt Cloud—fast, automated, and PR-driven for safe, repeatable deployments
-
-## <img src="https://logo.clearbit.com/smarsh.com" alt="Smarsh Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Data Engineer II @ Smarsh
-
-📅 **June 2021 - March 2023** • 📍 **Portland, OR**
-
-- Designed and deployed big data pipelines with SSIS, moving 400M+ rows daily from petabyte-scale SQL Server systems into AWS S3 and then into Snowflake for downstream processing
-- Rolled out dbt Cloud to handle data transformations, quality checks, testing, and job orchestration across multiple environments—kept things clean and predictable
-- Maintained complex Snowflake environments end-to-end: performance tuning, cost tracking, clustering strategies, warehouse scaling (both vertical and horizontal), and user/access management
-- Developed and continuously improved interactive dashboards and dynamic reports in Looker (original), Power BI, and SSRS, translating complex data into actionable insights for both internal stakeholders and external clients
-- Created CI/CD workflows with GitHub actions across Looker, Snowflake, dbt Cloud, and GitHub—ensuring reliable, fast delivery of new features via pull requests
-
-## <img src="https://logo.clearbit.com/upmc.com" alt="UPMC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Business Intelligence Developer II @ UPMC Health Plan
-
-📅 **March 2019 - June 2021** • 📍 **Pittsburgh, PA**
-
-- Built and maintained SSIS data pipelines to move and transform data across SQL Server systems, supporting daily operational needs and external reporting requirements
-- Developed automated reports and dashboards in SSRS and Power BI based on stakeholder requirements, delivering consistent, production-ready reporting systems
-
-## <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGSz5zYQpQxWA/company-logo_200_200/company-logo_200_200/0/1630602327242/continuum_managed_services_logo?e=1755129600&v=beta&t=NVdqSrinpDmNwOKZKIBbXc1Pi-JgppkKits-tjGRyT8" alt="Continuum Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Help Desk Technician @ Continuum, a ConnectWise company
-
-📅 **January 2018 - March 2019** • 📍 **Pittsburgh, PA**
-
-- Delivered comprehensive technical support for 1000+ customers across the full spectrum of IT operations, from end-user troubleshooting to infrastructure management and system administration
-
-## <img src="https://logo.clearbit.com/microsoft.com" alt="Microsoft Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Product Advisor @ Microsoft
-
-📅 **October 2016 - January 2018** • 📍 **Pittsburgh, PA**
-
-- Worked as a sales associate in Microsoft retail, helping customers with product selection and providing hands-on demonstrations of software and hardware solutions
-
-<br />
-
-# 🎓 Education
-
-## <img src="https://media.licdn.com/dms/image/v2/C560BAQFAXzbIv8Py2g/company-logo_200_200/company-logo_200_200/0/1657551755253/pennwest_california_logo?e=1755129600&v=beta&t=d6WQZN3sL7UGAEcWLXj2GXzaB5I3I0xilK_NJ8vkRts" alt="PennWest California Logo" width="48" height="48" style="vertical-align: middle; margin-right: 10px;"/> Bachelor of Science in Computer Information Systems
-
-🏫 **PennWest California** • 📍 **California, PA** • 🎯 **GPA: 3.82**
-
-<br />
-
 # 📊 GitHub Stats
 
 <div align="center">
