@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="452" viewBox="0 0 880 452" font-family="Inter,system-ui,sans-serif">
+<defs><linearGradient id="cgrad" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#29B5E8"/><stop offset="100%" stop-color="#1A5F8E"/></linearGradient><linearGradient id="topgrad" x1="0" x2="1" y1="0" y2="0"><stop offset="0%" stop-color="#29B5E8"/><stop offset="50%" stop-color="#7B42BC"/><stop offset="100%" stop-color="#3FCF8E"/></linearGradient></defs>
+<rect width="880" height="452" fill="#0D1117" rx="12"/>
+<rect x="0" y="0" width="880" height="4" fill="url(#topgrad)" rx="12"/>
+<text x="40" y="44" fill="#29B5E8" font-size="22" font-weight="700">Commits Per Month</text>
+<text x="40" y="84" font-size="13" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">4,027</tspan><tspan fill="#8B949E"> total &#183; </tspan><tspan fill="#29B5E8" font-weight="700">335</tspan><tspan fill="#8B949E">/mo avg &#183; </tspan><tspan fill="#29B5E8" font-weight="700">1,268</tspan><tspan fill="#8B949E"> peak &#183; last 12 months</tspan></text>
+<rect x="40" y="381" width="48" height="15" rx="4" fill="url(#cgrad)"/>
+<text x="64.0" y="375" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">69</text>
+<text x="64.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Jun '25</text>
+<rect x="106" y="297" width="48" height="99" rx="4" fill="url(#cgrad)"/>
+<text x="130.0" y="291" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">451</text>
+<text x="130.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Jul '25</text>
+<rect x="172" y="383" width="48" height="13" rx="4" fill="url(#cgrad)"/>
+<text x="196.0" y="377" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">62</text>
+<text x="196.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Aug '25</text>
+<rect x="238" y="393" width="48" height="3" rx="4" fill="url(#cgrad)"/>
+<text x="262.0" y="387" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">15</text>
+<text x="262.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Sep '25</text>
+<rect x="304" y="392" width="48" height="4" rx="4" fill="url(#cgrad)"/>
+<text x="328.0" y="386" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">20</text>
+<text x="328.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Oct '25</text>
+<rect x="370" y="394" width="48" height="2" rx="4" fill="url(#cgrad)"/>
+<text x="394.0" y="388" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">6</text>
+<text x="394.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Nov '25</text>
+<rect x="436" y="351" width="48" height="45" rx="4" fill="url(#cgrad)"/>
+<text x="460.0" y="345" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">205</text>
+<text x="460.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Dec '25</text>
+<rect x="502" y="331" width="48" height="65" rx="4" fill="url(#cgrad)"/>
+<text x="526.0" y="325" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">298</text>
+<text x="526.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Jan '26</text>
+<rect x="568" y="325" width="48" height="71" rx="4" fill="url(#cgrad)"/>
+<text x="592.0" y="319" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">324</text>
+<text x="592.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Feb '26</text>
+<rect x="634" y="270" width="48" height="126" rx="4" fill="url(#cgrad)"/>
+<text x="658.0" y="264" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">572</text>
+<text x="658.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Mar '26</text>
+<rect x="700" y="116" width="48" height="280" rx="4" fill="url(#cgrad)"/>
+<text x="724.0" y="110" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">1268</text>
+<text x="724.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">Apr '26</text>
+<rect x="766" y="234" width="48" height="162" rx="4" fill="url(#cgrad)"/>
+<text x="790.0" y="228" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">737</text>
+<text x="790.0" y="416" fill="#8B949E" font-size="11" text-anchor="middle">May '26</text>
+<line x1="32" y1="396" x2="856" y2="396" stroke="#30363D" stroke-width="1"/>
+<text x="856" y="436" fill="#8B949E" font-size="10" text-anchor="end">updated 2026-05-19</text>
+</svg>
