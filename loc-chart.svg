@@ -3,13 +3,13 @@
 <rect width="880" height="512" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="880" height="4" fill="url(#lgrad)" rx="12"/>
 <text x="24" y="34" fill="#29B5E8" font-size="20" font-weight="700">Lines of Code by Language</text>
-<text x="24" y="58" fill="#8B949E" font-size="13">726,440 code lines across 72 repos &#183; updated 2026-05-19</text>
+<text x="24" y="58" fill="#8B949E" font-size="13">727,580 code lines across 73 repos &#183; updated 2026-05-19</text>
 <text x="168" y="98" fill="#FFFFFF" font-size="13" text-anchor="end">TypeScript</text>
 <rect x="180" y="86" width="590" height="16" rx="3" fill="#29B5E8"/>
 <text x="778" y="98" fill="#C9D1D9" font-size="12">341,056</text>
 <text x="168" y="126" fill="#FFFFFF" font-size="13" text-anchor="end">Python</text>
-<rect x="180" y="114" width="260" height="16" rx="3" fill="#3FCF8E"/>
-<text x="448" y="126" fill="#C9D1D9" font-size="12">150,743</text>
+<rect x="180" y="114" width="262" height="16" rx="3" fill="#3FCF8E"/>
+<text x="450" y="126" fill="#C9D1D9" font-size="12">151,883</text>
 <text x="168" y="154" fill="#FFFFFF" font-size="13" text-anchor="end">SQL</text>
 <rect x="180" y="142" width="201" height="16" rx="3" fill="#F7DF1E"/>
 <text x="389" y="154" fill="#C9D1D9" font-size="12">116,650</text>
