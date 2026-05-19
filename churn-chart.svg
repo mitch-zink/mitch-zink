@@ -52,7 +52,7 @@
 <rect x="766" y="412" width="26" height="24" rx="3" fill="url(#agrad)"/>
 <rect x="796" y="430" width="26" height="6" rx="3" fill="url(#dgrad)"/>
 <text x="794.0" y="456" fill="#8B949E" font-size="11" text-anchor="middle">May '26</text>
-<text x="794.0" y="406" fill="#29B5E8" font-size="11" text-anchor="middle" font-weight="700">115.1k</text>
+<text x="794.0" y="406" fill="#29B5E8" font-size="11" text-anchor="middle" font-weight="700">115.8k</text>
 <line x1="32" y1="436" x2="856" y2="436" stroke="#30363D" stroke-width="1"/>
 <text x="856" y="476" fill="#8B949E" font-size="10" text-anchor="end">updated 2026-05-19</text>
 </svg>
