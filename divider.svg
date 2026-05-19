@@ -1,8 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="6" viewBox="0 0 880 6">
 <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-<stop offset="0%" stop-color="#29B5E8"/>
-<stop offset="50%" stop-color="#7B42BC"/>
-<stop offset="100%" stop-color="#3FCF8E"/>
+<stop offset="0%" stop-color="#00F5FF">
+<animate attributeName="stop-color" values="#00F5FF;#BC13FE;#39FF14;#FF073A;#FFFF00;#FF6EC7;#00F5FF" dur="14s" repeatCount="indefinite"/>
+</stop>
+<stop offset="50%" stop-color="#BC13FE">
+<animate attributeName="stop-color" values="#BC13FE;#39FF14;#FF073A;#FFFF00;#FF6EC7;#00F5FF;#BC13FE" dur="14s" repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#39FF14">
+<animate attributeName="stop-color" values="#39FF14;#FF073A;#FFFF00;#FF6EC7;#00F5FF;#BC13FE;#39FF14" dur="14s" repeatCount="indefinite"/>
+</stop>
 </linearGradient></defs>
 <rect width="880" height="6" fill="url(#g)" rx="3"/>
 </svg>
