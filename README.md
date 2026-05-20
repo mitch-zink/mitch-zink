@@ -23,8 +23,6 @@
 
 <!-- ACTIVITY-CHART-END -->
 
-![divider](./divider.svg)
-
 </div>
 
 <!-- TECH-STACK-START -->
