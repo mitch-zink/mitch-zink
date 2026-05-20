@@ -16,8 +16,8 @@
   ],
   "monthly": {
     "2025-06": {
-      "commits": 63,
-      "added": 1016726,
+      "commits": 62,
+      "added": 1015001,
       "deleted": 106
     },
     "2025-07": {
@@ -71,9 +71,9 @@
       "deleted": 161990
     },
     "2026-05": {
-      "commits": 759,
-      "added": 97414,
-      "deleted": 25005
+      "commits": 770,
+      "added": 99064,
+      "deleted": 25874
     }
   }
 }
