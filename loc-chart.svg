@@ -3,19 +3,19 @@
 <rect width="480" height="334" fill="#0D1117" rx="14"/>
 <rect x="0" y="0" width="480" height="3" fill="url(#lgrad)" rx="14"/>
 <text x="24" y="36" fill="#29B5E8" font-size="17" font-weight="700">Lines of Code by Language</text>
-<text x="24" y="58" fill="#8B949E" font-size="12"><tspan fill="#C9D1D9" font-weight="700">732,028</tspan> lines &#183; <tspan fill="#C9D1D9" font-weight="700">73</tspan> repos &#183; <tspan fill="#C9D1D9" font-weight="700">14</tspan> langs</text>
+<text x="24" y="58" fill="#8B949E" font-size="12"><tspan fill="#C9D1D9" font-weight="700">727,565</tspan> lines &#183; <tspan fill="#C9D1D9" font-weight="700">73</tspan> repos &#183; <tspan fill="#C9D1D9" font-weight="700">14</tspan> langs</text>
 <text x="110" y="92" fill="#FFFFFF" font-size="12" text-anchor="end" font-weight="500">TypeScript</text>
 <rect x="120" y="82" width="296" height="12" rx="2" fill="#29B5E8"/>
-<text x="422" y="92" fill="#C9D1D9" font-size="11">341k</text>
+<text x="422" y="92" fill="#C9D1D9" font-size="11">341.1k</text>
 <text x="110" y="118" fill="#FFFFFF" font-size="12" text-anchor="end" font-weight="500">Python</text>
 <rect x="120" y="108" width="131" height="12" rx="2" fill="#3FCF8E"/>
-<text x="257" y="118" fill="#C9D1D9" font-size="11">152k</text>
+<text x="257" y="118" fill="#C9D1D9" font-size="11">151.9k</text>
 <text x="110" y="144" fill="#FFFFFF" font-size="12" text-anchor="end" font-weight="500">SQL</text>
 <rect x="120" y="134" width="101" height="12" rx="2" fill="#F7DF1E"/>
-<text x="227" y="144" fill="#C9D1D9" font-size="11">116.6k</text>
+<text x="227" y="144" fill="#C9D1D9" font-size="11">116.7k</text>
 <text x="110" y="170" fill="#FFFFFF" font-size="12" text-anchor="end" font-weight="500">JavaScript</text>
-<rect x="120" y="160" width="33" height="12" rx="2" fill="#FF6973"/>
-<text x="159" y="170" fill="#C9D1D9" font-size="11">39.1k</text>
+<rect x="120" y="160" width="30" height="12" rx="2" fill="#FF6973"/>
+<text x="156" y="170" fill="#C9D1D9" font-size="11">34.7k</text>
 <text x="110" y="196" fill="#FFFFFF" font-size="12" text-anchor="end" font-weight="500">HTML</text>
 <rect x="120" y="186" width="26" height="12" rx="2" fill="#7B42BC"/>
 <text x="152" y="196" fill="#C9D1D9" font-size="11">30.1k</text>

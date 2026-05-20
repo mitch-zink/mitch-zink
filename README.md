@@ -2,13 +2,13 @@
 
 <!-- LOC-CHART-START -->
 
-[![Lines of Code by Language](./loc-chart.svg)](https://stats.zinklabs.dev) [![Commits per Month](./commits-chart.svg)](https://stats.zinklabs.dev)
+[![Lines of Code by Language](./loc-chart.svg)](https://stats.zinklabs.dev)
 
 <!-- LOC-CHART-END -->
 
 <!-- ACTIVITY-CHART-START -->
 
-[![Lines Modified per Month](./churn-chart.svg)](https://stats.zinklabs.dev)
+[![Commits per Month](./commits-chart.svg)](https://stats.zinklabs.dev) [![Lines Modified per Month](./churn-chart.svg)](https://stats.zinklabs.dev)
 
 <!-- ACTIVITY-CHART-END -->
 

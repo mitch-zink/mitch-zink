@@ -26,9 +26,9 @@
 <rect width="480" height="222" fill="#0D1117" rx="14"/>
 <rect x="0" y="0" width="480" height="3" fill="url(#topgrad)" rx="14"/>
 <text x="24" y="36" fill="#29B5E8" font-size="17" font-weight="700">Commits per Month</text>
-<text x="24" y="58" font-size="12" fill="#8B949E"><tspan fill="#C9D1D9" font-weight="700">4,036</tspan> total &#183; <tspan fill="#C9D1D9" font-weight="700">336</tspan>/mo avg &#183; <tspan fill="#C9D1D9" font-weight="700">1,268</tspan> peak</text>
+<text x="24" y="58" font-size="12" fill="#8B949E"><tspan fill="#C9D1D9" font-weight="700">4,044</tspan> total &#183; <tspan fill="#C9D1D9" font-weight="700">337</tspan>/mo avg &#183; <tspan fill="#C9D1D9" font-weight="700">1,268</tspan> peak</text>
 <rect x="24" y="181" width="22" height="5" rx="3" fill="url(#cgrad)"/>
-<text x="35.0" y="176" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">63</text>
+<text x="35.0" y="176" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">69</text>
 <text x="35.0" y="200" fill="#8B949E" font-size="9" text-anchor="middle">Jun</text>
 <rect x="61" y="147" width="22" height="39" rx="3" fill="url(#cgrad)"/>
 <text x="72.0" y="142" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">451</text>
@@ -61,7 +61,7 @@
 <text x="405.0" y="71" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">1.3k</text>
 <text x="405.0" y="200" fill="#8B949E" font-size="9" text-anchor="middle">Apr</text>
 <rect x="431" y="121" width="22" height="65" rx="3" fill="url(#cgrad)"/>
-<text x="442.0" y="116" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">752</text>
+<text x="442.0" y="116" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">754</text>
 <text x="442.0" y="200" fill="#8B949E" font-size="9" text-anchor="middle">May</text>
 <text x="456" y="210" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-05-20</text>
 </svg>
