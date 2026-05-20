@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 338" font-family="Inter,system-ui,sans-serif">
+<defs><linearGradient id="cgrad" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#29B5E8"/><stop offset="100%" stop-color="#1A5F8E"/></linearGradient><linearGradient id="topgrad" x1="0" x2="1" y1="0" y2="0"><stop offset="0%" stop-color="#29B5E8"><animate attributeName="stop-color" values="#29B5E8;#7B42BC;#3FCF8E;#29B5E8" dur="30s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="#7B42BC"><animate attributeName="stop-color" values="#7B42BC;#3FCF8E;#29B5E8;#7B42BC" dur="30s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#3FCF8E"><animate attributeName="stop-color" values="#3FCF8E;#29B5E8;#7B42BC;#3FCF8E" dur="30s" repeatCount="indefinite"/></stop></linearGradient></defs>
+<rect width="440" height="338" fill="#0D1117" rx="12"/>
+<rect x="0" y="0" width="440" height="4" fill="url(#topgrad)" rx="12"/>
+<text x="24" y="44" fill="#29B5E8" font-size="17" font-weight="700">Commits Per Month</text>
+<text x="24" y="76" font-size="11" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">4,043</tspan><tspan fill="#8B949E"> total &#183; </tspan><tspan fill="#29B5E8" font-weight="700">336</tspan><tspan fill="#8B949E">/mo avg &#183; </tspan><tspan fill="#29B5E8" font-weight="700">1,268</tspan><tspan fill="#8B949E"> peak</tspan></text>
+<rect x="24" y="285" width="22" height="9" rx="3" fill="url(#cgrad)"/>
+<text x="35.0" y="280" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">63</text>
+<text x="35.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Jun</text>
+<rect x="56" y="227" width="22" height="67" rx="3" fill="url(#cgrad)"/>
+<text x="67.0" y="222" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">451</text>
+<text x="67.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Jul</text>
+<rect x="88" y="285" width="22" height="9" rx="3" fill="url(#cgrad)"/>
+<text x="99.0" y="280" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">62</text>
+<text x="99.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Aug</text>
+<rect x="120" y="292" width="22" height="2" rx="3" fill="url(#cgrad)"/>
+<text x="131.0" y="287" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">15</text>
+<text x="131.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Sep</text>
+<rect x="152" y="292" width="22" height="2" rx="3" fill="url(#cgrad)"/>
+<text x="163.0" y="287" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">20</text>
+<text x="163.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Oct</text>
+<rect x="184" y="292" width="22" height="2" rx="3" fill="url(#cgrad)"/>
+<text x="195.0" y="287" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">6</text>
+<text x="195.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Nov</text>
+<rect x="216" y="264" width="22" height="30" rx="3" fill="url(#cgrad)"/>
+<text x="227.0" y="259" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">205</text>
+<text x="227.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Dec</text>
+<rect x="248" y="250" width="22" height="44" rx="3" fill="url(#cgrad)"/>
+<text x="259.0" y="245" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">298</text>
+<text x="259.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Jan</text>
+<rect x="280" y="246" width="22" height="48" rx="3" fill="url(#cgrad)"/>
+<text x="291.0" y="241" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">324</text>
+<text x="291.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Feb</text>
+<rect x="312" y="209" width="22" height="85" rx="3" fill="url(#cgrad)"/>
+<text x="323.0" y="204" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">572</text>
+<text x="323.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Mar</text>
+<rect x="344" y="104" width="22" height="190" rx="3" fill="url(#cgrad)"/>
+<text x="355.0" y="99" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">1.3k</text>
+<text x="355.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">Apr</text>
+<rect x="376" y="181" width="22" height="113" rx="3" fill="url(#cgrad)"/>
+<text x="387.0" y="176" fill="#FFFFFF" font-size="9" text-anchor="middle" font-weight="600">759</text>
+<text x="387.0" y="312" fill="#8B949E" font-size="8" text-anchor="middle">May</text>
+<line x1="18" y1="294" x2="416" y2="294" stroke="#30363D" stroke-width="1"/>
+<text x="416" y="324" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-05-20</text>
+</svg>

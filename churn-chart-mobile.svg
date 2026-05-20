@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 366" font-family="Inter,system-ui,sans-serif">
+<defs><linearGradient id="agrad" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#3FCF8E"/><stop offset="100%" stop-color="#1F6B49"/></linearGradient><linearGradient id="dgrad" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#FF6973"/><stop offset="100%" stop-color="#8A2F36"/></linearGradient><linearGradient id="mgrad" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#29B5E8"/><stop offset="100%" stop-color="#1A5F8E"/></linearGradient><linearGradient id="topgrad2" x1="0" x2="1" y1="0" y2="0"><stop offset="0%" stop-color="#29B5E8"><animate attributeName="stop-color" values="#29B5E8;#7B42BC;#3FCF8E;#29B5E8" dur="30s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="#7B42BC"><animate attributeName="stop-color" values="#7B42BC;#3FCF8E;#29B5E8;#7B42BC" dur="30s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#3FCF8E"><animate attributeName="stop-color" values="#3FCF8E;#29B5E8;#7B42BC;#3FCF8E" dur="30s" repeatCount="indefinite"/></stop></linearGradient></defs>
+<rect width="440" height="366" fill="#0D1117" rx="12"/>
+<rect x="0" y="0" width="440" height="4" fill="url(#topgrad2)" rx="12"/>
+<text x="24" y="44" fill="#29B5E8" font-size="17" font-weight="700">Lines Modified Per Month</text>
+<text x="24" y="72" font-size="10" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">5.5M</tspan><tspan fill="#8B949E"> modified &#183; </tspan><tspan fill="#3FCF8E" font-weight="700">+4.3M</tspan><tspan fill="#8B949E"> &#183; </tspan><tspan fill="#FF6973" font-weight="700">-1.2M</tspan><tspan fill="#8B949E"> &#183; net </tspan><tspan fill="#29B5E8" font-weight="700">+3.2M</tspan></text>
+<g transform="translate(24, 92)"><rect x="0" y="0" width="11" height="11" rx="3" fill="url(#agrad)"/><text x="16" y="9" fill="#C9D1D9" font-size="10">Added</text><rect x="62" y="0" width="11" height="11" rx="3" fill="url(#mgrad)"/><text x="78" y="9" fill="#C9D1D9" font-size="10">Modified</text><rect x="142" y="0" width="11" height="11" rx="3" fill="url(#dgrad)"/><text x="158" y="9" fill="#C9D1D9" font-size="10">Removed</text></g>
+<rect x="24" y="181" width="22" height="141" fill="url(#agrad)"/>
+<text x="35.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Jun</text>
+<text x="35.0" y="174" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">1M</text>
+<rect x="56" y="289" width="22" height="33" fill="url(#agrad)"/>
+<rect x="56" y="239" width="22" height="50" fill="url(#mgrad)"/>
+<text x="67.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Jul</text>
+<text x="67.0" y="232" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">598k</text>
+<rect x="88" y="320" width="22" height="2" fill="url(#agrad)"/>
+<rect x="88" y="292" width="22" height="28" fill="url(#mgrad)"/>
+<text x="99.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Aug</text>
+<text x="99.0" y="285" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">222.1k</text>
+<rect x="120" y="321" width="22" height="1" fill="url(#agrad)"/>
+<rect x="120" y="316" width="22" height="5" fill="url(#mgrad)"/>
+<text x="131.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Sep</text>
+<text x="131.0" y="309" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">51.4k</text>
+<rect x="152" y="321" width="22" height="1" fill="url(#agrad)"/>
+<text x="163.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Oct</text>
+<text x="163.0" y="314" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">13.6k</text>
+<rect x="184" y="320" width="22" height="2" fill="url(#agrad)"/>
+<text x="195.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Nov</text>
+<text x="195.0" y="313" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">19.3k</text>
+<rect x="216" y="310" width="22" height="12" fill="url(#agrad)"/>
+<rect x="216" y="295" width="22" height="15" fill="url(#mgrad)"/>
+<text x="227.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Dec</text>
+<text x="227.0" y="288" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">203.3k</text>
+<rect x="248" y="287" width="22" height="35" fill="url(#agrad)"/>
+<rect x="248" y="280" width="22" height="7" fill="url(#mgrad)"/>
+<text x="259.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Jan</text>
+<text x="259.0" y="273" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">310.3k</text>
+<rect x="280" y="301" width="22" height="21" fill="url(#agrad)"/>
+<rect x="280" y="283" width="22" height="18" fill="url(#mgrad)"/>
+<text x="291.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Feb</text>
+<text x="291.0" y="276" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">288.2k</text>
+<rect x="312" y="292" width="22" height="30" fill="url(#agrad)"/>
+<rect x="312" y="148" width="22" height="144" fill="url(#mgrad)"/>
+<text x="323.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Mar</text>
+<text x="323.0" y="141" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">1.3M</text>
+<rect x="344" y="178" width="22" height="144" fill="url(#agrad)"/>
+<rect x="344" y="133" width="22" height="45" fill="url(#mgrad)"/>
+<text x="355.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Apr</text>
+<text x="355.0" y="126" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">1.4M</text>
+<rect x="376" y="312" width="22" height="10" fill="url(#agrad)"/>
+<rect x="376" y="306" width="22" height="6" fill="url(#mgrad)"/>
+<text x="387.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">May</text>
+<text x="387.0" y="299" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">122.4k</text>
+<line x1="18" y1="322" x2="416" y2="322" stroke="#30363D" stroke-width="1"/>
+<text x="416" y="352" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-05-20</text>
+</svg>

@@ -2,28 +2,36 @@
 
 <!-- LOC-CHART-START -->
 
-<div align="center">
-
-![Lines of Code by Language](./loc-chart.svg)
-
-</div>
+<picture>
+  <source media="(max-width: 600px)" srcset="./loc-chart-mobile.svg">
+  <img alt="Lines of Code by Language" src="./loc-chart.svg">
+</picture>
 
 <!-- LOC-CHART-END -->
 
 <!-- ACTIVITY-CHART-START -->
 
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./commits-chart-mobile.svg">
+  <img alt="Commits per Month" src="./commits-chart.svg">
+</picture>
 
-![Commits per Month](./commits-chart.svg)
-
-![Code Churn per Month](./churn-chart.svg)
-
-</div>
+<picture>
+  <source media="(max-width: 600px)" srcset="./churn-chart-mobile.svg">
+  <img alt="Lines Modified per Month" src="./churn-chart.svg">
+</picture>
 
 <!-- ACTIVITY-CHART-END -->
-
-![Tech Stack](./tech-stack.svg)
 
 ![divider](./divider.svg)
 
 </div>
+
+<!-- TECH-STACK-START -->
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./tech-stack-mobile.svg">
+  <img alt="Tech Stack" src="./tech-stack.svg">
+</picture>
+
+<!-- TECH-STACK-END -->

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 688" font-family="Inter,system-ui,sans-serif">
+<defs><linearGradient id="lgrad" x1="0" x2="1" y1="0" y2="0"><stop offset="0%" stop-color="#29B5E8"><animate attributeName="stop-color" values="#29B5E8;#7B42BC;#3FCF8E;#29B5E8" dur="30s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="#7B42BC"><animate attributeName="stop-color" values="#7B42BC;#3FCF8E;#29B5E8;#7B42BC" dur="30s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#3FCF8E"><animate attributeName="stop-color" values="#3FCF8E;#29B5E8;#7B42BC;#3FCF8E" dur="30s" repeatCount="indefinite"/></stop></linearGradient></defs>
+<rect width="420" height="688" fill="#0D1117" rx="12"/>
+<rect x="0" y="0" width="420" height="4" fill="url(#lgrad)" rx="12"/>
+<text x="24" y="34" fill="#29B5E8" font-size="18" font-weight="700">Lines of Code by Language</text>
+<text x="24" y="58" fill="#8B949E" font-size="12">732,622 code lines &#183; 74 repos &#183; 2026-05-20</text>
+<text x="104" y="120.0" fill="#FFFFFF" font-size="13" text-anchor="end">TypeScript</text>
+<rect x="116" y="107.0" width="234" height="18" rx="3" fill="#29B5E8"/>
+<text x="358" y="120.0" fill="#C9D1D9" font-size="12">341.7k</text>
+<text x="104" y="160.0" fill="#FFFFFF" font-size="13" text-anchor="end">Python</text>
+<rect x="116" y="147.0" width="103" height="18" rx="3" fill="#3FCF8E"/>
+<text x="227" y="160.0" fill="#C9D1D9" font-size="12">151.8k</text>
+<text x="104" y="200.0" fill="#FFFFFF" font-size="13" text-anchor="end">SQL</text>
+<rect x="116" y="187.0" width="79" height="18" rx="3" fill="#FFFF00"/>
+<text x="203" y="200.0" fill="#C9D1D9" font-size="12">116.6k</text>
+<text x="104" y="240.0" fill="#FFFFFF" font-size="13" text-anchor="end">JavaScript</text>
+<rect x="116" y="227.0" width="26" height="18" rx="3" fill="#FF6973"/>
+<text x="150" y="240.0" fill="#C9D1D9" font-size="12">39.1k</text>
+<text x="104" y="280.0" fill="#FFFFFF" font-size="13" text-anchor="end">HTML</text>
+<rect x="116" y="267.0" width="20" height="18" rx="3" fill="#7B42BC"/>
+<text x="144" y="280.0" fill="#C9D1D9" font-size="12">30.1k</text>
+<text x="104" y="320.0" fill="#FFFFFF" font-size="13" text-anchor="end">CSS</text>
+<rect x="116" y="307.0" width="15" height="18" rx="3" fill="#FF6EC7"/>
+<text x="139" y="320.0" fill="#C9D1D9" font-size="12">22.3k</text>
+<text x="104" y="360.0" fill="#FFFFFF" font-size="13" text-anchor="end">YAML</text>
+<rect x="116" y="347.0" width="9" height="18" rx="3" fill="#00FFD0"/>
+<text x="133" y="360.0" fill="#C9D1D9" font-size="12">14.1k</text>
+<text x="104" y="400.0" fill="#FFFFFF" font-size="13" text-anchor="end">Shell</text>
+<rect x="116" y="387.0" width="6" height="18" rx="3" fill="#FF6600"/>
+<text x="130" y="400.0" fill="#C9D1D9" font-size="12">9.6k</text>
+<text x="104" y="440.0" fill="#FFFFFF" font-size="13" text-anchor="end">HCL</text>
+<rect x="116" y="427.0" width="4" height="18" rx="3" fill="#4DEEFF"/>
+<text x="128" y="440.0" fill="#C9D1D9" font-size="12">6.1k</text>
+<text x="104" y="480.0" fill="#FFFFFF" font-size="13" text-anchor="end">Swift</text>
+<rect x="116" y="467.0" width="2" height="18" rx="3" fill="#FFFF66"/>
+<text x="126" y="480.0" fill="#C9D1D9" font-size="12">546</text>
+<text x="104" y="520.0" fill="#FFFFFF" font-size="13" text-anchor="end">Rust</text>
+<rect x="116" y="507.0" width="2" height="18" rx="3" fill="#9F9F9F"/>
+<text x="126" y="520.0" fill="#C9D1D9" font-size="12">325</text>
+<text x="104" y="560.0" fill="#FFFFFF" font-size="13" text-anchor="end">Dockerfile</text>
+<rect x="116" y="547.0" width="2" height="18" rx="3" fill="#29B5E8"/>
+<text x="126" y="560.0" fill="#C9D1D9" font-size="12">186</text>
+<text x="104" y="600.0" fill="#FFFFFF" font-size="13" text-anchor="end">Java</text>
+<rect x="116" y="587.0" width="2" height="18" rx="3" fill="#3FCF8E"/>
+<text x="126" y="600.0" fill="#C9D1D9" font-size="12">27</text>
+<text x="104" y="640.0" fill="#FFFFFF" font-size="13" text-anchor="end">Objective-C</text>
+<rect x="116" y="627.0" width="2" height="18" rx="3" fill="#FFFF00"/>
+<text x="126" y="640.0" fill="#C9D1D9" font-size="12">1</text>
+</svg>
