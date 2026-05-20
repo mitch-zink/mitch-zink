@@ -2,7 +2,7 @@
   "updated": "2026-05-20",
   "repos": 73,
   "repos_scanned": 137,
-  "total": 732028,
+  "total": 731906,
   "languages": {
     "CSS": 22287,
     "HTML": 30085,
@@ -11,7 +11,7 @@
     "SQL": 116649,
     "TypeScript": 341038,
     "YAML": 14086,
-    "Python": 151954,
+    "Python": 151832,
     "HCL": 6143,
     "Java": 27,
     "Objective-C": 1,
