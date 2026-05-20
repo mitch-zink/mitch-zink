@@ -49,7 +49,7 @@
 <rect x="766" y="424" width="56" height="16" fill="url(#agrad)"/>
 <rect x="766" y="413" width="56" height="11" fill="url(#mgrad)"/>
 <text x="794.0" y="458" fill="#8B949E" font-size="11" text-anchor="middle">May</text>
-<text x="794.0" y="406" fill="#29B5E8" font-size="12" text-anchor="middle" font-weight="700">125.1k</text>
+<text x="794.0" y="406" fill="#29B5E8" font-size="12" text-anchor="middle" font-weight="700">127.8k</text>
 <line x1="34" y1="440" x2="856" y2="440" stroke="#30363D" stroke-width="1"/>
 <text x="856" y="482" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-05-20</text>
 </svg>

@@ -3,10 +3,10 @@
 <rect width="420" height="688" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="420" height="4" fill="url(#lgrad)" rx="12"/>
 <text x="24" y="34" fill="#29B5E8" font-size="18" font-weight="700">Lines of Code by Language</text>
-<text x="24" y="58" fill="#8B949E" font-size="12">728,482 code lines &#183; 74 repos &#183; 2026-05-20</text>
+<text x="24" y="58" fill="#8B949E" font-size="12">728,873 code lines &#183; 74 repos &#183; 2026-05-20</text>
 <text x="104" y="120.0" fill="#FFFFFF" font-size="13" text-anchor="end">TypeScript</text>
 <rect x="116" y="107.0" width="234" height="18" rx="3" fill="#29B5E8"/>
-<text x="358" y="120.0" fill="#C9D1D9" font-size="12">341.7k</text>
+<text x="358" y="120.0" fill="#C9D1D9" font-size="12">341.8k</text>
 <text x="104" y="160.0" fill="#FFFFFF" font-size="13" text-anchor="end">Python</text>
 <rect x="116" y="147.0" width="104" height="18" rx="3" fill="#3FCF8E"/>
 <text x="228" y="160.0" fill="#C9D1D9" font-size="12">152k</text>
@@ -21,7 +21,7 @@
 <text x="144" y="280.0" fill="#C9D1D9" font-size="12">30.1k</text>
 <text x="104" y="320.0" fill="#FFFFFF" font-size="13" text-anchor="end">CSS</text>
 <rect x="116" y="307.0" width="15" height="18" rx="3" fill="#FF6EC7"/>
-<text x="139" y="320.0" fill="#C9D1D9" font-size="12">22.3k</text>
+<text x="139" y="320.0" fill="#C9D1D9" font-size="12">22.6k</text>
 <text x="104" y="360.0" fill="#FFFFFF" font-size="13" text-anchor="end">YAML</text>
 <rect x="116" y="347.0" width="9" height="18" rx="3" fill="#00FFD0"/>
 <text x="133" y="360.0" fill="#C9D1D9" font-size="12">14.1k</text>
