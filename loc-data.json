@@ -1,0 +1,22 @@
+{
+  "updated": "2026-05-19",
+  "repos": 72,
+  "repos_scanned": 136,
+  "total": 730781,
+  "languages": {
+    "CSS": 22287,
+    "HTML": 30085,
+    "JavaScript": 39086,
+    "Shell": 9615,
+    "SQL": 116649,
+    "TypeScript": 341038,
+    "YAML": 14086,
+    "Python": 150707,
+    "HCL": 6143,
+    "Java": 27,
+    "Objective-C": 1,
+    "Swift": 546,
+    "Dockerfile": 186,
+    "Rust": 325
+  }
+}
