@@ -47,9 +47,9 @@
 <text x="355.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">Apr</text>
 <text x="355.0" y="126" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">1.4M</text>
 <rect x="376" y="312" width="22" height="10" fill="url(#agrad)"/>
-<rect x="376" y="306" width="22" height="6" fill="url(#mgrad)"/>
+<rect x="376" y="305" width="22" height="7" fill="url(#mgrad)"/>
 <text x="387.0" y="340" fill="#8B949E" font-size="8" text-anchor="middle">May</text>
-<text x="387.0" y="299" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">122.4k</text>
+<text x="387.0" y="298" fill="#29B5E8" font-size="9" text-anchor="middle" font-weight="700">124.9k</text>
 <line x1="18" y1="322" x2="416" y2="322" stroke="#30363D" stroke-width="1"/>
 <text x="416" y="352" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-05-20</text>
 </svg>
