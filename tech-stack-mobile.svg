@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 2033" font-family="Inter,system-ui,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 2130" font-family="Inter,system-ui,sans-serif">
 <defs><linearGradient id="hgrad2" x1="0" x2="1" y1="0" y2="0"><stop offset="0%" stop-color="#29B5E8"><animate attributeName="stop-color" values="#29B5E8;#7B42BC;#3FCF8E;#29B5E8" dur="30s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#3FCF8E"><animate attributeName="stop-color" values="#3FCF8E;#29B5E8;#7B42BC;#3FCF8E" dur="30s" repeatCount="indefinite"/></stop></linearGradient></defs>
-<rect width="440" height="2033" fill="#0D1117" rx="12"/>
+<rect width="440" height="2130" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="440" height="4" fill="url(#hgrad2)" rx="12"/>
 <text x="22" y="46" fill="#29B5E8" font-size="20" font-weight="700">Tech Stack</text>
 <text x="22" y="70" fill="#8B949E" font-size="12">131 tools &amp; languages across 9 categories</text>
