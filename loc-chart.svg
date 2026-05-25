@@ -3,37 +3,37 @@
 <rect width="880" height="512" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="880" height="4" fill="url(#lgrad)" rx="12"/>
 <text x="24" y="34" fill="#29B5E8" font-size="20" font-weight="700">Lines of Code by Language</text>
-<text x="24" y="58" fill="#8B949E" font-size="13">730,948 code lines &#183; 74 repos &#183; 2026-05-21</text>
+<text x="24" y="58" fill="#8B949E" font-size="13">747,667 code lines &#183; 74 repos &#183; 2026-05-25</text>
 <text x="168" y="98.0" fill="#FFFFFF" font-size="13" text-anchor="end">TypeScript</text>
 <rect x="180" y="86.0" width="590" height="16" rx="3" fill="#29B5E8"/>
-<text x="778" y="98.0" fill="#C9D1D9" font-size="12">342.7k</text>
+<text x="778" y="98.0" fill="#C9D1D9" font-size="12">351.2k</text>
 <text x="168" y="126.0" fill="#FFFFFF" font-size="13" text-anchor="end">Python</text>
-<rect x="180" y="114.0" width="262" height="16" rx="3" fill="#3FCF8E"/>
-<text x="450" y="126.0" fill="#C9D1D9" font-size="12">152.4k</text>
+<rect x="180" y="114.0" width="258" height="16" rx="3" fill="#3FCF8E"/>
+<text x="446" y="126.0" fill="#C9D1D9" font-size="12">154k</text>
 <text x="168" y="154.0" fill="#FFFFFF" font-size="13" text-anchor="end">SQL</text>
-<rect x="180" y="142.0" width="202" height="16" rx="3" fill="#FFFF00"/>
-<text x="390" y="154.0" fill="#C9D1D9" font-size="12">117.4k</text>
+<rect x="180" y="142.0" width="208" height="16" rx="3" fill="#FFFF00"/>
+<text x="396" y="154.0" fill="#C9D1D9" font-size="12">123.8k</text>
 <text x="168" y="182.0" fill="#FFFFFF" font-size="13" text-anchor="end">JavaScript</text>
-<rect x="180" y="170.0" width="59" height="16" rx="3" fill="#FF6973"/>
-<text x="247" y="182.0" fill="#C9D1D9" font-size="12">34.7k</text>
+<rect x="180" y="170.0" width="58" height="16" rx="3" fill="#FF6973"/>
+<text x="246" y="182.0" fill="#C9D1D9" font-size="12">34.8k</text>
 <text x="168" y="210.0" fill="#FFFFFF" font-size="13" text-anchor="end">HTML</text>
-<rect x="180" y="198.0" width="51" height="16" rx="3" fill="#7B42BC"/>
-<text x="239" y="210.0" fill="#C9D1D9" font-size="12">30.1k</text>
+<rect x="180" y="198.0" width="50" height="16" rx="3" fill="#7B42BC"/>
+<text x="238" y="210.0" fill="#C9D1D9" font-size="12">30.2k</text>
 <text x="168" y="238.0" fill="#FFFFFF" font-size="13" text-anchor="end">CSS</text>
-<rect x="180" y="226.0" width="38" height="16" rx="3" fill="#FF6EC7"/>
-<text x="226" y="238.0" fill="#C9D1D9" font-size="12">22.6k</text>
+<rect x="180" y="226.0" width="37" height="16" rx="3" fill="#FF6EC7"/>
+<text x="225" y="238.0" fill="#C9D1D9" font-size="12">22.6k</text>
 <text x="168" y="266.0" fill="#FFFFFF" font-size="13" text-anchor="end">YAML</text>
-<rect x="180" y="254.0" width="24" height="16" rx="3" fill="#00FFD0"/>
-<text x="212" y="266.0" fill="#C9D1D9" font-size="12">14.1k</text>
+<rect x="180" y="254.0" width="23" height="16" rx="3" fill="#00FFD0"/>
+<text x="211" y="266.0" fill="#C9D1D9" font-size="12">14.1k</text>
 <text x="168" y="294.0" fill="#FFFFFF" font-size="13" text-anchor="end">Shell</text>
 <rect x="180" y="282.0" width="16" height="16" rx="3" fill="#FF6600"/>
-<text x="204" y="294.0" fill="#C9D1D9" font-size="12">9.6k</text>
+<text x="204" y="294.0" fill="#C9D1D9" font-size="12">9.7k</text>
 <text x="168" y="322.0" fill="#FFFFFF" font-size="13" text-anchor="end">HCL</text>
 <rect x="180" y="310.0" width="10" height="16" rx="3" fill="#4DEEFF"/>
 <text x="198" y="322.0" fill="#C9D1D9" font-size="12">6.2k</text>
 <text x="168" y="350.0" fill="#FFFFFF" font-size="13" text-anchor="end">Swift</text>
 <rect x="180" y="338.0" width="2" height="16" rx="3" fill="#FFFF66"/>
-<text x="190" y="350.0" fill="#C9D1D9" font-size="12">546</text>
+<text x="190" y="350.0" fill="#C9D1D9" font-size="12">550</text>
 <text x="168" y="378.0" fill="#FFFFFF" font-size="13" text-anchor="end">Rust</text>
 <rect x="180" y="366.0" width="2" height="16" rx="3" fill="#9F9F9F"/>
 <text x="190" y="378.0" fill="#C9D1D9" font-size="12">325</text>
@@ -42,7 +42,7 @@
 <text x="190" y="406.0" fill="#C9D1D9" font-size="12">186</text>
 <text x="168" y="434.0" fill="#FFFFFF" font-size="13" text-anchor="end">Java</text>
 <rect x="180" y="422.0" width="2" height="16" rx="3" fill="#3FCF8E"/>
-<text x="190" y="434.0" fill="#C9D1D9" font-size="12">27</text>
+<text x="190" y="434.0" fill="#C9D1D9" font-size="12">110</text>
 <text x="168" y="462.0" fill="#FFFFFF" font-size="13" text-anchor="end">Objective-C</text>
 <rect x="180" y="450.0" width="2" height="16" rx="3" fill="#FFFF00"/>
 <text x="190" y="462.0" fill="#C9D1D9" font-size="12">1</text>
