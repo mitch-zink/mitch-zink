@@ -3,16 +3,16 @@
 <rect width="420" height="688" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="420" height="4" fill="url(#lgrad)" rx="12"/>
 <text x="24" y="34" fill="#29B5E8" font-size="18" font-weight="700">Lines of Code by Language</text>
-<text x="24" y="58" fill="#8B949E" font-size="12">933,082 code lines &#183; 80 repos &#183; 2026-06-22</text>
+<text x="24" y="58" fill="#8B949E" font-size="12">934,551 code lines &#183; 80 repos &#183; 2026-06-22</text>
 <text x="104" y="120.0" fill="#FFFFFF" font-size="13" text-anchor="end">TypeScript</text>
 <rect x="116" y="107.0" width="234" height="18" rx="3" fill="#29B5E8"/>
-<text x="358" y="120.0" fill="#C9D1D9" font-size="12">444.4k</text>
+<text x="358" y="120.0" fill="#C9D1D9" font-size="12">445.1k</text>
 <text x="104" y="160.0" fill="#FFFFFF" font-size="13" text-anchor="end">Python</text>
 <rect x="116" y="147.0" width="96" height="18" rx="3" fill="#3FCF8E"/>
-<text x="220" y="160.0" fill="#C9D1D9" font-size="12">183.7k</text>
+<text x="220" y="160.0" fill="#C9D1D9" font-size="12">183.8k</text>
 <text x="104" y="200.0" fill="#FFFFFF" font-size="13" text-anchor="end">SQL</text>
 <rect x="116" y="187.0" width="69" height="18" rx="3" fill="#FFFF00"/>
-<text x="193" y="200.0" fill="#C9D1D9" font-size="12">131.6k</text>
+<text x="193" y="200.0" fill="#C9D1D9" font-size="12">132.2k</text>
 <text x="104" y="240.0" fill="#FFFFFF" font-size="13" text-anchor="end">YAML</text>
 <rect x="116" y="227.0" width="33" height="18" rx="3" fill="#FF6973"/>
 <text x="157" y="240.0" fill="#C9D1D9" font-size="12">64.4k</text>
@@ -27,7 +27,7 @@
 <text x="136" y="360.0" fill="#C9D1D9" font-size="12">24.6k</text>
 <text x="104" y="400.0" fill="#FFFFFF" font-size="13" text-anchor="end">Shell</text>
 <rect x="116" y="387.0" width="5" height="18" rx="3" fill="#FF6600"/>
-<text x="129" y="400.0" fill="#C9D1D9" font-size="12">10.2k</text>
+<text x="129" y="400.0" fill="#C9D1D9" font-size="12">10.3k</text>
 <text x="104" y="440.0" fill="#FFFFFF" font-size="13" text-anchor="end">HCL</text>
 <rect x="116" y="427.0" width="3" height="18" rx="3" fill="#4DEEFF"/>
 <text x="127" y="440.0" fill="#C9D1D9" font-size="12">6.9k</text>

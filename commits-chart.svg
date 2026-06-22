@@ -3,7 +3,7 @@
 <rect width="880" height="452" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="880" height="4" fill="url(#topgrad)" rx="12"/>
 <text x="40" y="44" fill="#29B5E8" font-size="22" font-weight="700">Commits Per Month</text>
-<text x="40" y="76" font-size="13" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">5,845</tspan><tspan fill="#8B949E"> total &#183; </tspan><tspan fill="#29B5E8" font-weight="700">487</tspan><tspan fill="#8B949E">/mo avg &#183; </tspan><tspan fill="#29B5E8" font-weight="700">1,797</tspan><tspan fill="#8B949E"> peak</tspan></text>
+<text x="40" y="76" font-size="13" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">5,873</tspan><tspan fill="#8B949E"> total &#183; </tspan><tspan fill="#29B5E8" font-weight="700">489</tspan><tspan fill="#8B949E">/mo avg &#183; </tspan><tspan fill="#29B5E8" font-weight="700">1,797</tspan><tspan fill="#8B949E"> peak</tspan></text>
 <rect x="40" y="328" width="48" height="68" rx="3" fill="url(#cgrad)"/>
 <text x="64.0" y="323" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">441</text>
 <text x="64.0" y="414" fill="#8B949E" font-size="11" text-anchor="middle">Jul</text>
@@ -37,8 +37,8 @@
 <rect x="700" y="116" width="48" height="280" rx="3" fill="url(#cgrad)"/>
 <text x="724.0" y="111" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">1.8k</text>
 <text x="724.0" y="414" fill="#8B949E" font-size="11" text-anchor="middle">May</text>
-<rect x="766" y="266" width="48" height="130" rx="3" fill="url(#cgrad)"/>
-<text x="790.0" y="261" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">837</text>
+<rect x="766" y="262" width="48" height="134" rx="3" fill="url(#cgrad)"/>
+<text x="790.0" y="257" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">865</text>
 <text x="790.0" y="414" fill="#8B949E" font-size="11" text-anchor="middle">Jun</text>
 <line x1="34" y1="396" x2="856" y2="396" stroke="#30363D" stroke-width="1"/>
 <text x="856" y="438" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-06-22</text>
