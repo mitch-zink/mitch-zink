@@ -157,32 +157,35 @@ def svg():
             tok_by_day[row["date"]] += (int(row["input_tokens"]) + int(row["output_tokens"])
                 + int(row["cache_creation_tokens"]) + int(row["cache_read_tokens"]))
     days = sorted(cost_by_day)
-    months = sorted({d[:7] for d in days})
-    grand = sum(cost_by_day.values())
-    toks = sum(tok_by_day.values())
-
-    # >=3 months -> monthly bars; else daily
-    if len(months) >= 3:
-        buckets = defaultdict(float)
-        for d, c in cost_by_day.items():
-            buckets[d[:7]] += c
-        keys = sorted(buckets)
-        bars = [(datetime.strptime(k, "%Y-%m").strftime("%b"), buckets[k], money(buckets[k])) for k in keys]
-        title, per = "Claude Code Spend Per Month", "/mo avg"
-        peak = max(buckets.values())
-    else:
-        keys = days
-        bars = [(k[8:10], cost_by_day[k], money(cost_by_day[k])) for k in keys]
-        title, per = "Claude Code Spend Per Day", "/day avg"
-        peak = max(cost_by_day.values()) if cost_by_day else 0
-    avg = grand / max(len(keys), 1)
+    # L12M: last 12 calendar months ending this month (matches the sibling charts).
+    now = datetime.now()
+    months = []
+    y, mo = now.year, now.month
+    for _ in range(12):
+        months.append(f"{y:04d}-{mo:02d}")
+        mo -= 1
+        if mo == 0:
+            mo = 12; y -= 1
+    months.reverse()
+    cost_by_mo = defaultdict(float)
+    tok_by_mo = defaultdict(int)
+    for d in days:
+        cost_by_mo[d[:7]] += cost_by_day[d]
+        tok_by_mo[d[:7]] += tok_by_day[d]
+    bars = [(datetime.strptime(m, "%Y-%m").strftime("%b"), cost_by_mo.get(m, 0.0),
+             money(cost_by_mo[m]) if cost_by_mo.get(m) else "") for m in months]
+    grand = sum(cost_by_mo.get(m, 0.0) for m in months)
+    toks = sum(tok_by_mo.get(m, 0) for m in months)
+    avg = grand / 12
+    peak = max((cost_by_mo.get(m, 0.0) for m in months), default=0)
+    title = "Claude Code Spend Per Month"
 
     sub = [(f"${grand:,.2f}", True), (" total · ", False),
-           (money(avg), True), (f"{per} · ", False),
+           (money(avg), True), ("/mo avg · ", False),
            (money(peak), True), (" peak · ", False),
            (f"{toks/1e9:.1f}B", True), (" tokens", False)]
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    footer = f"{len(machines)} machine{'s' if len(machines)!=1 else ''} · {days[0]}→{days[-1]} · {today}"
+    today = now.strftime("%Y-%m-%d")
+    footer = f"L12M · {len(machines)} machine{'s' if len(machines)!=1 else ''} · {today}"
 
     desk = dict(W=880, H=452, left=40, right=24, base_y=396, top_y=120, lab_y=414,
                 title_y=44, title_sz=22, sub_y=76, sub_sz=13)
