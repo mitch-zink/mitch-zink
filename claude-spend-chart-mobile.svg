@@ -3,7 +3,7 @@
 <rect width="440" height="338" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="440" height="4" fill="url(#topgrad)" rx="12"/>
 <text x="28" y="36" fill="#29B5E8" font-size="17" font-weight="700">Claude Code Spend Per Month</text>
-<text x="28" y="62" font-size="11" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">$11,815.91</tspan><tspan fill="#8B949E"> total · </tspan><tspan fill="#29B5E8" font-weight="700">$985</tspan><tspan fill="#8B949E">/mo avg · </tspan><tspan fill="#29B5E8" font-weight="700">$11.8k</tspan><tspan fill="#8B949E"> peak · </tspan><tspan fill="#29B5E8" font-weight="700">16.5B</tspan><tspan fill="#8B949E"> tokens</tspan></text>
+<text x="28" y="62" font-size="11" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">$11,841.57</tspan><tspan fill="#8B949E"> total · </tspan><tspan fill="#29B5E8" font-weight="700">$987</tspan><tspan fill="#8B949E">/mo avg · </tspan><tspan fill="#29B5E8" font-weight="700">$11.8k</tspan><tspan fill="#8B949E"> peak · </tspan><tspan fill="#29B5E8" font-weight="700">16.6B</tspan><tspan fill="#8B949E"> tokens</tspan></text>
 <rect x="32.6" y="286.0" width="23.6" height="2.0" rx="3" fill="url(#cgrad)"/>
 <text x="44.4" y="281.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600"></text>
 <text x="44.4" y="304" fill="#8B949E" font-size="11" text-anchor="middle">Jul</text>
@@ -41,5 +41,5 @@
 <text x="405.6" y="99.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$11.8k</text>
 <text x="405.6" y="304" fill="#8B949E" font-size="11" text-anchor="middle">Jun</text>
 <line x1="22" y1="288" x2="422" y2="288" stroke="#30363D" stroke-width="1"/>
-<text x="422" y="324" fill="#6E7681" font-size="9" text-anchor="end">L12M · API-equiv list price · 2 machines · 2026-06-21</text>
+<text x="422" y="324" fill="#6E7681" font-size="9" text-anchor="end">L12M · API-equiv list price · 2 machines · 2026-06-22</text>
 </svg>
