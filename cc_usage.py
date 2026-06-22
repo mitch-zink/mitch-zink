@@ -102,6 +102,15 @@ def parse(machine):
 def money(v):
     return f"${v/1000:.1f}k" if v >= 1000 else f"${v:.0f}"
 
+def toks_fmt(v):
+    if v >= 1e9:
+        return f"{v/1e9:.1f}B"
+    if v >= 1e6:
+        return f"{v/1e6:.0f}M"
+    if v >= 1e3:
+        return f"{v/1e3:.0f}k"
+    return str(int(v))
+
 def esc(s):
     return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
@@ -111,8 +120,17 @@ TOPGRAD = ('<linearGradient id="topgrad" x1="0" x2="1" y1="0" y2="0">'
     '<stop offset="100%" stop-color="#3FCF8E"><animate attributeName="stop-color" values="#3FCF8E;#29B5E8;#7B42BC;#3FCF8E" dur="30s" repeatCount="indefinite"/></stop></linearGradient>')
 CGRAD = '<linearGradient id="cgrad" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#29B5E8"/><stop offset="100%" stop-color="#1A5F8E"/></linearGradient>'
 
-def render(dims, title, subtitle_parts, bars, footer, label_every=1):
-    """bars: list of (xlabel, value, value_display). subtitle_parts: list of (text, is_accent)."""
+def _line(parts, x, y, sz, accent_color):
+    """parts: list of (text, is_accent) -> one <text> with colored tspans."""
+    o = [f'<text x="{x}" y="{y}" font-size="{sz}" fill="#C9D1D9">']
+    for txt, accent in parts:
+        o.append(f'<tspan fill="{accent_color if accent else "#8B949E"}"{" font-weight=\"700\"" if accent else ""}>{esc(txt)}</tspan>')
+    o.append("</text>")
+    return "".join(o)
+
+def render(dims, title, subtitle_parts, bars, footer, label_every=1, punchline_parts=None):
+    """bars: list of (xlabel, value, value_display). subtitle_parts: list of (text, is_accent).
+    punchline_parts: optional second line (the $200-Max-plan joke), rendered in green."""
     W, H = dims["W"], dims["H"]
     left, right = dims["left"], dims["right"]
     base_y, top_y, lab_y = dims["base_y"], dims["top_y"], dims["lab_y"]
@@ -128,11 +146,9 @@ def render(dims, title, subtitle_parts, bars, footer, label_every=1):
     out.append(f'<rect width="{W}" height="{H}" fill="#0D1117" rx="12"/>')
     out.append(f'<rect x="0" y="0" width="{W}" height="4" fill="url(#topgrad)" rx="12"/>')
     out.append(f'<text x="{left}" y="{ts}" fill="#29B5E8" font-size="{tsz}" font-weight="700">{esc(title)}</text>')
-    sub = [f'<text x="{left}" y="{sub_y}" font-size="{sub_sz}" fill="#C9D1D9">']
-    for txt, accent in subtitle_parts:
-        sub.append(f'<tspan fill="{"#29B5E8" if accent else "#8B949E"}"{" font-weight=\"700\"" if accent else ""}>{esc(txt)}</tspan>')
-    sub.append("</text>")
-    out.append("".join(sub))
+    out.append(_line(subtitle_parts, left, sub_y, sub_sz, "#29B5E8"))
+    if punchline_parts:
+        out.append(_line(punchline_parts, left, dims["punch_y"], dims["punch_sz"], "#3FCF8E"))
     for i, (xlab, val, disp) in enumerate(bars):
         cx = left + step * i + step / 2
         h = max(2, val / maxv * span)
@@ -175,33 +191,39 @@ def svg():
     for d in days:
         cost_by_mo[d[:7]] += cost_by_day[d]
         tok_by_mo[d[:7]] += tok_by_day[d]
-    bars = [(datetime.strptime(m, "%Y-%m").strftime("%b"), cost_by_mo.get(m, 0.0),
-             money(cost_by_mo[m]) if cost_by_mo.get(m) else "") for m in months]
+    # Bars are TOKENS per month (the headline metric); $ is the API-equiv punchline.
+    bars = [(datetime.strptime(m, "%Y-%m").strftime("%b"), tok_by_mo.get(m, 0),
+             toks_fmt(tok_by_mo[m]) if tok_by_mo.get(m) else "") for m in months]
     grand = sum(cost_by_mo.get(m, 0.0) for m in months)
     toks = sum(tok_by_mo.get(m, 0) for m in months)
-    avg = grand / 12
-    peak = max((cost_by_mo.get(m, 0.0) for m in months), default=0)
-    title = "Claude Code Spend Per Month"
+    tok_avg = toks / 12
+    tok_peak = max((tok_by_mo.get(m, 0) for m in months), default=0)
+    cost_peak = max((cost_by_mo.get(m, 0.0) for m in months), default=0)
+    PLAN = 200  # Claude Max plan, $/mo
+    mult = round(cost_peak / PLAN) if cost_peak else 0
+    title = "Claude Code Tokens Per Month"
 
-    sub = [(f"${grand:,.2f}", True), (" total · ", False),
-           (money(avg), True), ("/mo avg · ", False),
-           (money(peak), True), (" peak · ", False),
-           (f"{toks/1e9:.1f}B", True), (" tokens", False)]
+    sub = [(f"{toks/1e9:.1f}B", True), (" tokens · ", False),
+           (toks_fmt(tok_avg), True), ("/mo avg · ", False),
+           (toks_fmt(tok_peak), True), (" peak", False)]
+    # The joke: that peak month would cost ${cost_peak} at API list price — paid on a $200/mo plan.
+    punch = [(money(cost_peak), True), (" of API-equiv usage in one month — on a ", False),
+             ("$200/mo Max plan", True), (f"  ({mult}× the plan)", True)]
     today = now.strftime("%Y-%m-%d")
-    footer = f"L12M · API-equiv list price · {len(machines)} machine{'s' if len(machines)!=1 else ''} · {today}"
+    footer = f"L12M · bars = tokens · $ at API list price · {len(machines)} machine{'s' if len(machines)!=1 else ''} · {today}"
 
-    desk = dict(W=880, H=452, left=40, right=24, base_y=396, top_y=120, lab_y=414,
-                title_y=44, title_sz=22, sub_y=76, sub_sz=13)
-    mob = dict(W=440, H=338, left=28, right=18, base_y=288, top_y=104, lab_y=304,
-               title_y=36, title_sz=17, sub_y=62, sub_sz=11)
+    desk = dict(W=880, H=452, left=40, right=24, base_y=396, top_y=132, lab_y=414,
+                title_y=44, title_sz=22, sub_y=76, sub_sz=13, punch_y=100, punch_sz=13)
+    mob = dict(W=440, H=360, left=28, right=18, base_y=300, top_y=120, lab_y=316,
+               title_y=36, title_sz=17, sub_y=60, sub_sz=11, punch_y=82, punch_sz=10)
     le_desk = max(1, len(bars) // 16)
     le_mob = max(1, len(bars) // 7)
     open(os.path.join(HERE, "claude-spend-chart.svg"), "w").write(
-        render(desk, title, sub, bars, footer, le_desk))
+        render(desk, title, sub, bars, footer, le_desk, punch))
     open(os.path.join(HERE, "claude-spend-chart-mobile.svg"), "w").write(
-        render(mob, title, sub, bars, footer, le_mob))
-    print(f"wrote claude-spend-chart.svg (+mobile): ${grand:,.2f}, {toks/1e9:.1f}B tokens, "
-          f"{len(machines)} machine(s), {days[0]}->{days[-1]}", file=sys.stderr)
+        render(mob, title, sub, bars, footer, le_mob, punch))
+    print(f"wrote claude-spend-chart.svg (+mobile): {toks/1e9:.1f}B tokens, ${grand:,.2f} API-equiv, "
+          f"peak {money(cost_peak)} ({mult}x $200 plan), {len(machines)} machine(s), {days[0]}->{days[-1]}", file=sys.stderr)
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
