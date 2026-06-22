@@ -5,6 +5,8 @@
 <plist version="1.0">
 <dict>
   <key>Label</key><string>dev.mitchzink.ccspend</string>
+  <key>EnvironmentVariables</key>
+  <dict><key>CCSPEND_MACHINE</key><string>macbook-pro</string></dict>
   <key>ProgramArguments</key>
   <array>
     <string>/bin/bash</string>

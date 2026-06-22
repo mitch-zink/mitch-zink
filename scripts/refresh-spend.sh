@@ -9,7 +9,10 @@ REPO="$HOME/Documents/GitHub/mitch-zink"
 cd "$REPO" || { echo "$(date '+%F %T') repo missing: $REPO"; exit 1; }
 
 git pull --rebase --autostash origin main >/dev/null 2>&1 || { echo "$(date '+%F %T') pull failed"; exit 1; }
-python3 cc_usage.py parse || { echo "$(date '+%F %T') parse failed"; exit 1; }
+# Stable per-machine label (override with CCSPEND_MACHINE) so the same machine
+# always writes the same data/usage_<label>.csv and never double-counts.
+MACHINE="${CCSPEND_MACHINE:-$(hostname -s | tr 'A-Z' 'a-z' | tr -cs 'a-z0-9-' '-' | sed 's/-*$//')}"
+python3 cc_usage.py parse --machine "$MACHINE" || { echo "$(date '+%F %T') parse failed"; exit 1; }
 python3 cc_usage.py svg   || { echo "$(date '+%F %T') svg failed"; exit 1; }
 
 if git diff --quiet -- data/ claude-spend-chart.svg claude-spend-chart-mobile.svg; then
