@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 338" font-family="Inter,system-ui,sans-serif">
+<defs><linearGradient id="cgrad" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#29B5E8"/><stop offset="100%" stop-color="#1A5F8E"/></linearGradient><linearGradient id="topgrad" x1="0" x2="1" y1="0" y2="0"><stop offset="0%" stop-color="#29B5E8"><animate attributeName="stop-color" values="#29B5E8;#7B42BC;#3FCF8E;#29B5E8" dur="30s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="#7B42BC"><animate attributeName="stop-color" values="#7B42BC;#3FCF8E;#29B5E8;#7B42BC" dur="30s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#3FCF8E"><animate attributeName="stop-color" values="#3FCF8E;#29B5E8;#7B42BC;#3FCF8E" dur="30s" repeatCount="indefinite"/></stop></linearGradient></defs>
+<rect width="440" height="338" fill="#0D1117" rx="12"/>
+<rect x="0" y="0" width="440" height="4" fill="url(#topgrad)" rx="12"/>
+<text x="28" y="36" fill="#29B5E8" font-size="17" font-weight="700">Claude Code Spend Per Day</text>
+<text x="28" y="62" font-size="11" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">$27,008.68</tspan><tspan fill="#8B949E"> total · </tspan><tspan fill="#29B5E8" font-weight="700">$1.3k</tspan><tspan fill="#8B949E">/day avg · </tspan><tspan fill="#29B5E8" font-weight="700">$5.3k</tspan><tspan fill="#8B949E"> peak · </tspan><tspan fill="#29B5E8" font-weight="700">15.0B</tspan><tspan fill="#8B949E"> tokens</tspan></text>
+<rect x="30.6" y="286.0" width="13.5" height="2.0" rx="3" fill="url(#cgrad)"/>
+<text x="37.4" y="281.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$35</text>
+<text x="37.4" y="304" fill="#8B949E" font-size="11" text-anchor="middle">01</text>
+<rect x="49.4" y="281.3" width="13.5" height="6.7" rx="3" fill="url(#cgrad)"/>
+<text x="56.1" y="276.3" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$193</text>
+<rect x="68.2" y="104.0" width="13.5" height="184.0" rx="3" fill="url(#cgrad)"/>
+<text x="74.9" y="99.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$5.3k</text>
+<rect x="86.9" y="187.9" width="13.5" height="100.1" rx="3" fill="url(#cgrad)"/>
+<text x="93.7" y="182.9" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$2.9k</text>
+<text x="93.7" y="304" fill="#8B949E" font-size="11" text-anchor="middle">04</text>
+<rect x="105.7" y="180.1" width="13.5" height="107.9" rx="3" fill="url(#cgrad)"/>
+<text x="112.4" y="175.1" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$3.1k</text>
+<rect x="124.4" y="230.6" width="13.5" height="57.4" rx="3" fill="url(#cgrad)"/>
+<text x="131.2" y="225.6" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$1.6k</text>
+<rect x="143.2" y="284.0" width="13.5" height="4.0" rx="3" fill="url(#cgrad)"/>
+<text x="150.0" y="279.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$114</text>
+<text x="150.0" y="304" fill="#8B949E" font-size="11" text-anchor="middle">07</text>
+<rect x="162.0" y="282.2" width="13.5" height="5.8" rx="3" fill="url(#cgrad)"/>
+<text x="168.7" y="277.2" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$165</text>
+<rect x="180.7" y="283.9" width="13.5" height="4.1" rx="3" fill="url(#cgrad)"/>
+<text x="187.5" y="278.9" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$116</text>
+<rect x="199.5" y="255.4" width="13.5" height="32.6" rx="3" fill="url(#cgrad)"/>
+<text x="206.2" y="250.4" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$934</text>
+<text x="206.2" y="304" fill="#8B949E" font-size="11" text-anchor="middle">10</text>
+<rect x="218.2" y="261.0" width="13.5" height="27.0" rx="3" fill="url(#cgrad)"/>
+<text x="225.0" y="256.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$773</text>
+<rect x="237.0" y="269.4" width="13.5" height="18.6" rx="3" fill="url(#cgrad)"/>
+<text x="243.8" y="264.4" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$532</text>
+<rect x="255.8" y="247.7" width="13.5" height="40.3" rx="3" fill="url(#cgrad)"/>
+<text x="262.5" y="242.7" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$1.2k</text>
+<text x="262.5" y="304" fill="#8B949E" font-size="11" text-anchor="middle">13</text>
+<rect x="274.5" y="232.3" width="13.5" height="55.7" rx="3" fill="url(#cgrad)"/>
+<text x="281.3" y="227.3" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$1.6k</text>
+<rect x="293.3" y="282.6" width="13.5" height="5.4" rx="3" fill="url(#cgrad)"/>
+<text x="300.0" y="277.6" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$156</text>
+<rect x="312.1" y="265.3" width="13.5" height="22.7" rx="3" fill="url(#cgrad)"/>
+<text x="318.8" y="260.3" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$649</text>
+<text x="318.8" y="304" fill="#8B949E" font-size="11" text-anchor="middle">17</text>
+<rect x="330.8" y="259.6" width="13.5" height="28.4" rx="3" fill="url(#cgrad)"/>
+<text x="337.6" y="254.6" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$813</text>
+<rect x="349.6" y="174.6" width="13.5" height="113.4" rx="3" fill="url(#cgrad)"/>
+<text x="356.3" y="169.6" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$3.2k</text>
+<rect x="368.3" y="240.7" width="13.5" height="47.3" rx="3" fill="url(#cgrad)"/>
+<text x="375.1" y="235.7" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$1.4k</text>
+<text x="375.1" y="304" fill="#8B949E" font-size="11" text-anchor="middle">20</text>
+<rect x="387.1" y="226.4" width="13.5" height="61.6" rx="3" fill="url(#cgrad)"/>
+<text x="393.9" y="221.4" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$1.8k</text>
+<rect x="405.9" y="268.8" width="13.5" height="19.2" rx="3" fill="url(#cgrad)"/>
+<text x="412.6" y="263.8" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">$549</text>
+<line x1="22" y1="288" x2="422" y2="288" stroke="#30363D" stroke-width="1"/>
+<text x="422" y="324" fill="#6E7681" font-size="9" text-anchor="end">1 machine · 2026-06-01→2026-06-22 · 2026-06-22</text>
+</svg>

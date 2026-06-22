@@ -23,6 +23,15 @@
 
 <!-- ACTIVITY-CHART-END -->
 
+<!-- CLAUDE-SPEND-CHART-START -->
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./claude-spend-chart-mobile.svg">
+  <img alt="Claude Code Token Spend" src="./claude-spend-chart.svg">
+</picture>
+
+<!-- CLAUDE-SPEND-CHART-END -->
+
 </div>
 
 <!-- TECH-STACK-START -->
