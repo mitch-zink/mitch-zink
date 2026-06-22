@@ -26,11 +26,13 @@ DATA = os.path.join(HERE, "data")
 CLAUDE_DIR = os.path.expanduser("~/.claude/projects")
 
 # $ per 1M tokens: (input, output, cache_write_5m, cache_read). Matched by substring.
+# Verified against platform.claude.com/docs pricing 2026-06-21 (Opus 4.5+/Sonnet 4.x/
+# Haiku 4.5/Fable 5). NOTE: Opus 4/4.1 (retired) were $15/$75; current Opus is $5/$25.
 PRICES = {
-    "opus":   (15.0, 75.0, 18.75, 1.50),
+    "opus":   (5.0,  25.0, 6.25,  0.50),
     "sonnet": (3.0,  15.0, 3.75,  0.30),
     "haiku":  (1.0,  5.0,  1.25,  0.10),
-    "fable":  (3.0,  15.0, 3.75,  0.30),  # ponytail: no public price yet — sonnet-tier; fix when known
+    "fable":  (10.0, 50.0, 12.50, 1.00),
 }
 
 def family(model):
@@ -154,8 +156,9 @@ def svg():
     for f in files:
         for row in csv.DictReader(open(f)):
             cost_by_day[row["date"]] += float(row["cost_usd"])
-            tok_by_day[row["date"]] += (int(row["input_tokens"]) + int(row["output_tokens"])
-                + int(row["cache_creation_tokens"]) + int(row["cache_read_tokens"]))
+            if row["model_family"] in PRICES:  # Claude-only tokens (exclude non-Claude/synthetic)
+                tok_by_day[row["date"]] += (int(row["input_tokens"]) + int(row["output_tokens"])
+                    + int(row["cache_creation_tokens"]) + int(row["cache_read_tokens"]))
     days = sorted(cost_by_day)
     # L12M: last 12 calendar months ending this month (matches the sibling charts).
     now = datetime.now()
@@ -185,7 +188,7 @@ def svg():
            (money(peak), True), (" peak · ", False),
            (f"{toks/1e9:.1f}B", True), (" tokens", False)]
     today = now.strftime("%Y-%m-%d")
-    footer = f"L12M · {len(machines)} machine{'s' if len(machines)!=1 else ''} · {today}"
+    footer = f"L12M · API-equiv list price · {len(machines)} machine{'s' if len(machines)!=1 else ''} · {today}"
 
     desk = dict(W=880, H=452, left=40, right=24, base_y=396, top_y=120, lab_y=414,
                 title_y=44, title_sz=22, sub_y=76, sub_sz=13)
