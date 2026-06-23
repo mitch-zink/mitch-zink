@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!-- Template. install-spend-cron.sh rewrites __HOME__ to your $HOME and installs
-     this to ~/Library/LaunchAgents/. Runs the spend-chart refresh daily at 18:00. -->
+<!-- Template. install-spend-cron.sh rewrites __HOME__ to your $HOME and __MACHINE__
+     to this machine's label, then installs to ~/Library/LaunchAgents/. Runs the
+     spend-chart refresh daily at 18:00. The label MUST be unique per machine
+     (two Macs with the same computer name would otherwise clobber one CSV). -->
 <plist version="1.0">
 <dict>
   <key>Label</key><string>dev.mitchzink.ccspend</string>
   <key>EnvironmentVariables</key>
-  <dict><key>CCSPEND_MACHINE</key><string>macbook-pro</string></dict>
+  <dict><key>CCSPEND_MACHINE</key><string>__MACHINE__</string></dict>
   <key>ProgramArguments</key>
   <array>
     <string>/bin/bash</string>

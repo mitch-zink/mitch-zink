@@ -15,15 +15,25 @@ every `data/usage_<machine>.csv` so the chart reflects all machines.
 
 **macOS**
 ```bash
-bash scripts/install-spend-cron.sh
+bash scripts/install-spend-cron.sh            # label = hostname
+bash scripts/install-spend-cron.sh macbook-pro-2   # explicit label (see warning)
 ```
+⚠️ **Unique label per machine.** The label is the CSV bucket
+(`data/usage_<label>.csv`). Two Macs with the same computer name both derive the
+same hostname label and would clobber one CSV — pass an explicit label as the
+first arg on any machine that would collide.
+
 ⚠️ macOS TCC blocks background agents from `~/Documents` and `~/.claude`, so the
 unattended run fails with `Operation not permitted` until you grant **Full Disk
 Access** to `/bin/bash` (System Settings → Privacy & Security → Full Disk Access).
 Until then, refresh manually anytime (an interactive shell already has access):
 ```bash
-bash scripts/refresh-spend.sh
+CCSPEND_MACHINE=macbook-pro-2 bash scripts/refresh-spend.sh   # match the install label
 ```
+
+The installer also sets `cleanupPeriodDays: 3650` in `~/.claude/settings.json` so
+Claude Code stops pruning transcripts at 30 days — otherwise spend history older
+than ~30 days is deleted before it can be parsed.
 
 **Linux (e.g. the home server / devbox)** — no TCC, just cron:
 ```bash
