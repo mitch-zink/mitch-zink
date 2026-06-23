@@ -3,8 +3,8 @@
 <rect width="440" height="360" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="440" height="4" fill="url(#topgrad)" rx="12"/>
 <text x="28" y="36" fill="#29B5E8" font-size="17" font-weight="700">Claude Code Tokens Per Month</text>
-<text x="28" y="60" font-size="11" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">16.6B</tspan><tspan fill="#8B949E"> tokens · </tspan><tspan fill="#29B5E8" font-weight="700">1.4B</tspan><tspan fill="#8B949E">/mo avg · </tspan><tspan fill="#29B5E8" font-weight="700">16.6B</tspan><tspan fill="#8B949E"> peak</tspan></text>
-<text x="28" y="82" font-size="10" fill="#C9D1D9"><tspan fill="#3FCF8E" font-weight="700">$11.9k</tspan><tspan fill="#8B949E"> of API-equiv usage in one month — on a </tspan><tspan fill="#3FCF8E" font-weight="700">$200/mo Max plan</tspan><tspan fill="#3FCF8E" font-weight="700">  (59× the plan)</tspan></text>
+<text x="28" y="60" font-size="11" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">23.3B</tspan><tspan fill="#8B949E"> tokens · </tspan><tspan fill="#29B5E8" font-weight="700">1.9B</tspan><tspan fill="#8B949E">/mo avg · </tspan><tspan fill="#29B5E8" font-weight="700">20.7B</tspan><tspan fill="#8B949E"> peak</tspan></text>
+<text x="28" y="82" font-size="10" fill="#C9D1D9"><tspan fill="#3FCF8E" font-weight="700">$12.9k</tspan><tspan fill="#8B949E"> of API-equiv usage in one month — on a </tspan><tspan fill="#3FCF8E" font-weight="700">$200/mo Max plan</tspan><tspan fill="#3FCF8E" font-weight="700">  (65× the plan)</tspan></text>
 <rect x="32.6" y="298.0" width="23.6" height="2.0" rx="3" fill="url(#cgrad)"/>
 <text x="44.4" y="293.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600"></text>
 <text x="44.4" y="316" fill="#8B949E" font-size="11" text-anchor="middle">Jul</text>
@@ -35,11 +35,11 @@
 <rect x="328.1" y="298.0" width="23.6" height="2.0" rx="3" fill="url(#cgrad)"/>
 <text x="339.9" y="293.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600"></text>
 <text x="339.9" y="316" fill="#8B949E" font-size="11" text-anchor="middle">Apr</text>
-<rect x="360.9" y="298.0" width="23.6" height="2.0" rx="3" fill="url(#cgrad)"/>
-<text x="372.8" y="293.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600"></text>
+<rect x="360.9" y="120.0" width="23.6" height="180.0" rx="3" fill="url(#cgrad)"/>
+<text x="372.8" y="115.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">20.7B</text>
 <text x="372.8" y="316" fill="#8B949E" font-size="11" text-anchor="middle">May</text>
-<rect x="393.8" y="120.0" width="23.6" height="180.0" rx="3" fill="url(#cgrad)"/>
-<text x="405.6" y="115.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">16.6B</text>
+<rect x="393.8" y="277.6" width="23.6" height="22.4" rx="3" fill="url(#cgrad)"/>
+<text x="405.6" y="272.6" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">2.6B</text>
 <text x="405.6" y="316" fill="#8B949E" font-size="11" text-anchor="middle">Jun</text>
 <line x1="22" y1="300" x2="422" y2="300" stroke="#30363D" stroke-width="1"/>
 <text x="422" y="346" fill="#6E7681" font-size="9" text-anchor="end">L12M · bars = tokens · $ at API list price · 2 machines · 2026-06-23</text>
