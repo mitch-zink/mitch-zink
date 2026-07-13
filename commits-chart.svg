@@ -3,7 +3,7 @@
 <rect width="880" height="452" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="880" height="4" fill="url(#topgrad)" rx="12"/>
 <text x="40" y="44" fill="#29B5E8" font-size="22" font-weight="700">Commits Per Month</text>
-<text x="40" y="76" font-size="13" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">5,999</tspan><tspan fill="#8B949E"> total &#183; </tspan><tspan fill="#29B5E8" font-weight="700">499</tspan><tspan fill="#8B949E">/mo avg &#183; </tspan><tspan fill="#29B5E8" font-weight="700">1,797</tspan><tspan fill="#8B949E"> peak</tspan></text>
+<text x="40" y="76" font-size="13" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">6,511</tspan><tspan fill="#8B949E"> total &#183; </tspan><tspan fill="#29B5E8" font-weight="700">542</tspan><tspan fill="#8B949E">/mo avg &#183; </tspan><tspan fill="#29B5E8" font-weight="700">1,797</tspan><tspan fill="#8B949E"> peak</tspan></text>
 <rect x="40" y="387" width="48" height="9" rx="3" fill="url(#cgrad)"/>
 <text x="64.0" y="382" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">62</text>
 <text x="64.0" y="414" fill="#8B949E" font-size="11" text-anchor="middle">Aug</text>
@@ -37,9 +37,9 @@
 <rect x="700" y="211" width="48" height="185" rx="3" fill="url(#cgrad)"/>
 <text x="724.0" y="206" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">1.2k</text>
 <text x="724.0" y="414" fill="#8B949E" font-size="11" text-anchor="middle">Jun</text>
-<rect x="766" y="359" width="48" height="37" rx="3" fill="url(#cgrad)"/>
-<text x="790.0" y="354" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">240</text>
+<rect x="766" y="279" width="48" height="117" rx="3" fill="url(#cgrad)"/>
+<text x="790.0" y="274" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">752</text>
 <text x="790.0" y="414" fill="#8B949E" font-size="11" text-anchor="middle">Jul</text>
 <line x1="34" y1="396" x2="856" y2="396" stroke="#30363D" stroke-width="1"/>
-<text x="856" y="438" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-07-06</text>
+<text x="856" y="438" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-07-13</text>
 </svg>
