@@ -38,9 +38,9 @@
 <rect x="360.9" y="156.8" width="23.6" height="143.2" rx="3" fill="url(#cgrad)"/>
 <text x="372.8" y="151.8" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">16.5B</text>
 <text x="372.8" y="316" fill="#8B949E" font-size="11" text-anchor="middle">Jun</text>
-<rect x="393.8" y="294.3" width="23.6" height="5.7" rx="3" fill="url(#cgrad)"/>
-<text x="405.6" y="289.3" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">661M</text>
+<rect x="393.8" y="294.0" width="23.6" height="6.0" rx="3" fill="url(#cgrad)"/>
+<text x="405.6" y="289.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">690M</text>
 <text x="405.6" y="316" fill="#8B949E" font-size="11" text-anchor="middle">Jul</text>
 <line x1="22" y1="300" x2="422" y2="300" stroke="#30363D" stroke-width="1"/>
-<text x="422" y="346" fill="#6E7681" font-size="9" text-anchor="end">L12M · bars = tokens · $ at API list price · 3 machines · 2026-07-17</text>
+<text x="422" y="346" fill="#6E7681" font-size="9" text-anchor="end">L12M · bars = tokens · $ at API list price · 3 machines · 2026-07-18</text>
 </svg>
