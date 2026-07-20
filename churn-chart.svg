@@ -3,7 +3,7 @@
 <rect width="880" height="496" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="880" height="4" fill="url(#topgrad2)" rx="12"/>
 <text x="40" y="44" fill="#29B5E8" font-size="22" font-weight="700">Lines Modified Per Month</text>
-<text x="40" y="76" font-size="13" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">9.8M</tspan><tspan fill="#8B949E"> modified &#183; </tspan><tspan fill="#3FCF8E" font-weight="700">+6.7M</tspan><tspan fill="#8B949E"> &#183; </tspan><tspan fill="#FF6973" font-weight="700">-3.1M</tspan><tspan fill="#8B949E"> &#183; net </tspan><tspan fill="#29B5E8" font-weight="700">+3.6M</tspan></text>
+<text x="40" y="76" font-size="13" fill="#C9D1D9"><tspan fill="#29B5E8" font-weight="700">9.9M</tspan><tspan fill="#8B949E"> modified &#183; </tspan><tspan fill="#3FCF8E" font-weight="700">+6.8M</tspan><tspan fill="#8B949E"> &#183; </tspan><tspan fill="#FF6973" font-weight="700">-3.1M</tspan><tspan fill="#8B949E"> &#183; net </tspan><tspan fill="#29B5E8" font-weight="700">+3.6M</tspan></text>
 <g transform="translate(40, 104)"><rect x="0" y="0" width="11" height="11" rx="3" fill="url(#agrad)"/><text x="16" y="9" fill="#C9D1D9" font-size="13">Added</text><rect x="62" y="0" width="11" height="11" rx="3" fill="url(#mgrad)"/><text x="78" y="9" fill="#C9D1D9" font-size="13">Modified</text><rect x="142" y="0" width="11" height="11" rx="3" fill="url(#dgrad)"/><text x="158" y="9" fill="#C9D1D9" font-size="13">Removed</text></g>
 <rect x="40" y="420" width="56" height="20" fill="url(#agrad)"/>
 <rect x="40" y="402" width="56" height="18" fill="url(#mgrad)"/>
@@ -47,10 +47,10 @@
 <rect x="700" y="141" width="56" height="9" fill="url(#mgrad)"/>
 <text x="728.0" y="458" fill="#8B949E" font-size="11" text-anchor="middle">Jun</text>
 <text x="728.0" y="134" fill="#29B5E8" font-size="12" text-anchor="middle" font-weight="700">3.3M</text>
-<rect x="766" y="405" width="56" height="35" fill="url(#mgrad)"/>
-<rect x="766" y="241" width="56" height="164" rx="4" fill="url(#dgrad)"/>
+<rect x="766" y="392" width="56" height="48" fill="url(#mgrad)"/>
+<rect x="766" y="233" width="56" height="159" rx="4" fill="url(#dgrad)"/>
 <text x="794.0" y="458" fill="#8B949E" font-size="11" text-anchor="middle">Jul</text>
-<text x="794.0" y="234" fill="#29B5E8" font-size="12" text-anchor="middle" font-weight="700">2.2M</text>
+<text x="794.0" y="226" fill="#29B5E8" font-size="12" text-anchor="middle" font-weight="700">2.3M</text>
 <line x1="34" y1="440" x2="856" y2="440" stroke="#30363D" stroke-width="1"/>
-<text x="856" y="482" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-07-13</text>
+<text x="856" y="482" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-07-20</text>
 </svg>
