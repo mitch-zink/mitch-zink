@@ -1,42 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 888" font-family="Inter,system-ui,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 928" font-family="Inter,system-ui,sans-serif">
 <defs><linearGradient id="lgrad" x1="0" x2="1" y1="0" y2="0"><stop offset="0%" stop-color="#29B5E8"><animate attributeName="stop-color" values="#29B5E8;#7B42BC;#3FCF8E;#29B5E8" dur="30s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="#7B42BC"><animate attributeName="stop-color" values="#7B42BC;#3FCF8E;#29B5E8;#7B42BC" dur="30s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#3FCF8E"><animate attributeName="stop-color" values="#3FCF8E;#29B5E8;#7B42BC;#3FCF8E" dur="30s" repeatCount="indefinite"/></stop></linearGradient></defs>
-<rect width="420" height="888" fill="#0D1117" rx="12"/>
+<rect width="420" height="928" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="420" height="4" fill="url(#lgrad)" rx="12"/>
 <text x="24" y="34" fill="#29B5E8" font-size="18" font-weight="700">Lines of Code by Language</text>
-<text x="24" y="58" fill="#8B949E" font-size="12">1,129,353 code lines &#183; 84 repos &#183; 2026-07-27</text>
+<text x="24" y="58" fill="#8B949E" font-size="12">1,243,210 code lines &#183; 86 repos &#183; 2026-08-03</text>
 <text x="104" y="120.0" fill="#FFFFFF" font-size="13" text-anchor="end">TypeScript</text>
 <rect x="116" y="107.0" width="234" height="18" rx="3" fill="#29B5E8"/>
-<text x="358" y="120.0" fill="#C9D1D9" font-size="12">557.3k</text>
+<text x="358" y="120.0" fill="#C9D1D9" font-size="12">638k</text>
 <text x="104" y="160.0" fill="#FFFFFF" font-size="13" text-anchor="end">Python</text>
-<rect x="116" y="147.0" width="90" height="18" rx="3" fill="#3FCF8E"/>
-<text x="214" y="160.0" fill="#C9D1D9" font-size="12">215.1k</text>
+<rect x="116" y="147.0" width="82" height="18" rx="3" fill="#3FCF8E"/>
+<text x="206" y="160.0" fill="#C9D1D9" font-size="12">225.9k</text>
 <text x="104" y="200.0" fill="#FFFFFF" font-size="13" text-anchor="end">SQL</text>
-<rect x="116" y="187.0" width="69" height="18" rx="3" fill="#FFFF00"/>
-<text x="193" y="200.0" fill="#C9D1D9" font-size="12">165.9k</text>
+<rect x="116" y="187.0" width="65" height="18" rx="3" fill="#FFFF00"/>
+<text x="189" y="200.0" fill="#C9D1D9" font-size="12">177.9k</text>
 <text x="104" y="240.0" fill="#FFFFFF" font-size="13" text-anchor="end">YAML</text>
-<rect x="116" y="227.0" width="27" height="18" rx="3" fill="#FF6973"/>
-<text x="151" y="240.0" fill="#C9D1D9" font-size="12">64.5k</text>
+<rect x="116" y="227.0" width="23" height="18" rx="3" fill="#FF6973"/>
+<text x="147" y="240.0" fill="#C9D1D9" font-size="12">64.6k</text>
 <text x="104" y="280.0" fill="#FFFFFF" font-size="13" text-anchor="end">JavaScript</text>
 <rect x="116" y="267.0" width="16" height="18" rx="3" fill="#7B42BC"/>
-<text x="140" y="280.0" fill="#C9D1D9" font-size="12">40.2k</text>
+<text x="140" y="280.0" fill="#C9D1D9" font-size="12">44.4k</text>
 <text x="104" y="320.0" fill="#FFFFFF" font-size="13" text-anchor="end">CSS</text>
 <rect x="116" y="307.0" width="13" height="18" rx="3" fill="#FF6EC7"/>
-<text x="137" y="320.0" fill="#C9D1D9" font-size="12">32.6k</text>
+<text x="137" y="320.0" fill="#C9D1D9" font-size="12">37k</text>
 <text x="104" y="360.0" fill="#FFFFFF" font-size="13" text-anchor="end">HTML</text>
-<rect x="116" y="347.0" width="13" height="18" rx="3" fill="#00FFD0"/>
-<text x="137" y="360.0" fill="#C9D1D9" font-size="12">31.4k</text>
+<rect x="116" y="347.0" width="11" height="18" rx="3" fill="#00FFD0"/>
+<text x="135" y="360.0" fill="#C9D1D9" font-size="12">31.9k</text>
 <text x="104" y="400.0" fill="#FFFFFF" font-size="13" text-anchor="end">Shell</text>
-<rect x="116" y="387.0" width="5" height="18" rx="3" fill="#FF6600"/>
-<text x="129" y="400.0" fill="#C9D1D9" font-size="12">12k</text>
+<rect x="116" y="387.0" width="4" height="18" rx="3" fill="#FF6600"/>
+<text x="128" y="400.0" fill="#C9D1D9" font-size="12">12.8k</text>
 <text x="104" y="440.0" fill="#FFFFFF" font-size="13" text-anchor="end">HCL</text>
-<rect x="116" y="427.0" width="3" height="18" rx="3" fill="#4DEEFF"/>
-<text x="127" y="440.0" fill="#C9D1D9" font-size="12">7.2k</text>
+<rect x="116" y="427.0" width="2" height="18" rx="3" fill="#4DEEFF"/>
+<text x="126" y="440.0" fill="#C9D1D9" font-size="12">7.2k</text>
 <text x="104" y="480.0" fill="#FFFFFF" font-size="13" text-anchor="end">C++</text>
 <rect x="116" y="467.0" width="2" height="18" rx="3" fill="#FFFF66"/>
 <text x="126" y="480.0" fill="#C9D1D9" font-size="12">1k</text>
 <text x="104" y="520.0" fill="#FFFFFF" font-size="13" text-anchor="end">Swift</text>
 <rect x="116" y="507.0" width="2" height="18" rx="3" fill="#9F9F9F"/>
-<text x="126" y="520.0" fill="#C9D1D9" font-size="12">602</text>
+<text x="126" y="520.0" fill="#C9D1D9" font-size="12">872</text>
 <text x="104" y="560.0" fill="#FFFFFF" font-size="13" text-anchor="end">C Header</text>
 <rect x="116" y="547.0" width="2" height="18" rx="3" fill="#29B5E8"/>
 <text x="126" y="560.0" fill="#C9D1D9" font-size="12">402</text>
@@ -45,20 +45,23 @@
 <text x="126" y="600.0" fill="#C9D1D9" font-size="12">325</text>
 <text x="104" y="640.0" fill="#FFFFFF" font-size="13" text-anchor="end">Dockerfile</text>
 <rect x="116" y="627.0" width="2" height="18" rx="3" fill="#FFFF00"/>
-<text x="126" y="640.0" fill="#C9D1D9" font-size="12">256</text>
+<text x="126" y="640.0" fill="#C9D1D9" font-size="12">264</text>
 <text x="104" y="680.0" fill="#FFFFFF" font-size="13" text-anchor="end">PowerShell</text>
 <rect x="116" y="667.0" width="2" height="18" rx="3" fill="#FF6973"/>
 <text x="126" y="680.0" fill="#C9D1D9" font-size="12">221</text>
-<text x="104" y="720.0" fill="#FFFFFF" font-size="13" text-anchor="end">Java</text>
+<text x="104" y="720.0" fill="#FFFFFF" font-size="13" text-anchor="end">Kotlin</text>
 <rect x="116" y="707.0" width="2" height="18" rx="3" fill="#7B42BC"/>
-<text x="126" y="720.0" fill="#C9D1D9" font-size="12">137</text>
-<text x="104" y="760.0" fill="#FFFFFF" font-size="13" text-anchor="end">C#</text>
+<text x="126" y="720.0" fill="#C9D1D9" font-size="12">218</text>
+<text x="104" y="760.0" fill="#FFFFFF" font-size="13" text-anchor="end">Java</text>
 <rect x="116" y="747.0" width="2" height="18" rx="3" fill="#FF6EC7"/>
-<text x="126" y="760.0" fill="#C9D1D9" font-size="12">46</text>
-<text x="104" y="800.0" fill="#FFFFFF" font-size="13" text-anchor="end">Unreal Project</text>
+<text x="126" y="760.0" fill="#C9D1D9" font-size="12">170</text>
+<text x="104" y="800.0" fill="#FFFFFF" font-size="13" text-anchor="end">C#</text>
 <rect x="116" y="787.0" width="2" height="18" rx="3" fill="#00FFD0"/>
-<text x="126" y="800.0" fill="#C9D1D9" font-size="12">23</text>
-<text x="104" y="840.0" fill="#FFFFFF" font-size="13" text-anchor="end">Objective-C</text>
+<text x="126" y="800.0" fill="#C9D1D9" font-size="12">46</text>
+<text x="104" y="840.0" fill="#FFFFFF" font-size="13" text-anchor="end">Unreal Project</text>
 <rect x="116" y="827.0" width="2" height="18" rx="3" fill="#FF6600"/>
-<text x="126" y="840.0" fill="#C9D1D9" font-size="12">1</text>
+<text x="126" y="840.0" fill="#C9D1D9" font-size="12">23</text>
+<text x="104" y="880.0" fill="#FFFFFF" font-size="13" text-anchor="end">Objective-C</text>
+<rect x="116" y="867.0" width="2" height="18" rx="3" fill="#4DEEFF"/>
+<text x="126" y="880.0" fill="#C9D1D9" font-size="12">1</text>
 </svg>
