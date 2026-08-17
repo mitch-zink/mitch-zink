@@ -46,10 +46,10 @@
 <rect x="700" y="141" width="56" height="122" rx="4" fill="url(#dgrad)"/>
 <text x="728.0" y="458" fill="#8B949E" font-size="11" text-anchor="middle">Jul</text>
 <text x="728.0" y="134" fill="#29B5E8" font-size="12" text-anchor="middle" font-weight="700">5.4M</text>
-<rect x="766" y="378" width="56" height="62" fill="url(#agrad)"/>
-<rect x="766" y="366" width="56" height="12" fill="url(#mgrad)"/>
+<rect x="766" y="376" width="56" height="64" fill="url(#agrad)"/>
+<rect x="766" y="363" width="56" height="13" fill="url(#mgrad)"/>
 <text x="794.0" y="458" fill="#8B949E" font-size="11" text-anchor="middle">Aug</text>
-<text x="794.0" y="359" fill="#29B5E8" font-size="12" text-anchor="middle" font-weight="700">1.4M</text>
+<text x="794.0" y="356" fill="#29B5E8" font-size="12" text-anchor="middle" font-weight="700">1.4M</text>
 <line x1="34" y1="440" x2="856" y2="440" stroke="#30363D" stroke-width="1"/>
-<text x="856" y="482" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-08-10</text>
+<text x="856" y="482" fill="#6E7681" font-size="9" text-anchor="end">L12M &#183; 2026-08-17</text>
 </svg>
