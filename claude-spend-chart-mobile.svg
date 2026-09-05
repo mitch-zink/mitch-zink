@@ -35,12 +35,12 @@
 <rect x="328.1" y="216.7" width="23.6" height="83.3" rx="3" fill="url(#cgrad)"/>
 <text x="339.9" y="211.7" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">9.6B</text>
 <text x="339.9" y="316" fill="#8B949E" font-size="11" text-anchor="middle">Jul</text>
-<rect x="360.9" y="220.7" width="23.6" height="79.3" rx="3" fill="url(#cgrad)"/>
-<text x="372.8" y="215.7" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">9.1B</text>
+<rect x="360.9" y="221.1" width="23.6" height="78.9" rx="3" fill="url(#cgrad)"/>
+<text x="372.8" y="216.1" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">9.1B</text>
 <text x="372.8" y="316" fill="#8B949E" font-size="11" text-anchor="middle">Aug</text>
 <rect x="393.8" y="298.0" width="23.6" height="2.0" rx="3" fill="url(#cgrad)"/>
-<text x="405.6" y="293.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">70M</text>
+<text x="405.6" y="293.0" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="600">107M</text>
 <text x="405.6" y="316" fill="#8B949E" font-size="11" text-anchor="middle">Sep</text>
 <line x1="22" y1="300" x2="422" y2="300" stroke="#30363D" stroke-width="1"/>
-<text x="422" y="346" fill="#6E7681" font-size="9" text-anchor="end">L12M · bars = tokens · $ at API list price · 4 machines · 2026-09-04</text>
+<text x="422" y="346" fill="#6E7681" font-size="9" text-anchor="end">L12M · bars = tokens · $ at API list price · 4 machines · 2026-09-05</text>
 </svg>
