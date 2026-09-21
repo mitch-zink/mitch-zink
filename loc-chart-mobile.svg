@@ -3,31 +3,31 @@
 <rect width="420" height="968" fill="#0D1117" rx="12"/>
 <rect x="0" y="0" width="420" height="4" fill="url(#lgrad)" rx="12"/>
 <text x="24" y="34" fill="#29B5E8" font-size="18" font-weight="700">Lines of Code by Language</text>
-<text x="24" y="58" fill="#8B949E" font-size="12">1,381,570 code lines &#183; 87 repos &#183; 2026-09-14</text>
+<text x="24" y="58" fill="#8B949E" font-size="12">1,399,048 code lines &#183; 89 repos &#183; 2026-09-21</text>
 <text x="104" y="120.0" fill="#FFFFFF" font-size="13" text-anchor="end">TypeScript</text>
 <rect x="116" y="107.0" width="234" height="18" rx="3" fill="#29B5E8"/>
-<text x="358" y="120.0" fill="#C9D1D9" font-size="12">704.5k</text>
+<text x="358" y="120.0" fill="#C9D1D9" font-size="12">711k</text>
 <text x="104" y="160.0" fill="#FFFFFF" font-size="13" text-anchor="end">Python</text>
-<rect x="116" y="147.0" width="82" height="18" rx="3" fill="#3FCF8E"/>
-<text x="206" y="160.0" fill="#C9D1D9" font-size="12">249.8k</text>
+<rect x="116" y="147.0" width="84" height="18" rx="3" fill="#3FCF8E"/>
+<text x="208" y="160.0" fill="#C9D1D9" font-size="12">256.3k</text>
 <text x="104" y="200.0" fill="#FFFFFF" font-size="13" text-anchor="end">SQL</text>
-<rect x="116" y="187.0" width="73" height="18" rx="3" fill="#FFFF00"/>
-<text x="197" y="200.0" fill="#C9D1D9" font-size="12">221.2k</text>
+<rect x="116" y="187.0" width="74" height="18" rx="3" fill="#FFFF00"/>
+<text x="198" y="200.0" fill="#C9D1D9" font-size="12">225.3k</text>
 <text x="104" y="240.0" fill="#FFFFFF" font-size="13" text-anchor="end">YAML</text>
 <rect x="116" y="227.0" width="21" height="18" rx="3" fill="#FF6973"/>
-<text x="145" y="240.0" fill="#C9D1D9" font-size="12">64.6k</text>
+<text x="145" y="240.0" fill="#C9D1D9" font-size="12">64.7k</text>
 <text x="104" y="280.0" fill="#FFFFFF" font-size="13" text-anchor="end">JavaScript</text>
 <rect x="116" y="267.0" width="15" height="18" rx="3" fill="#7B42BC"/>
-<text x="139" y="280.0" fill="#C9D1D9" font-size="12">47.2k</text>
+<text x="139" y="280.0" fill="#C9D1D9" font-size="12">47.3k</text>
 <text x="104" y="320.0" fill="#FFFFFF" font-size="13" text-anchor="end">CSS</text>
 <rect x="116" y="307.0" width="12" height="18" rx="3" fill="#FF6EC7"/>
-<text x="136" y="320.0" fill="#C9D1D9" font-size="12">38.5k</text>
+<text x="136" y="320.0" fill="#C9D1D9" font-size="12">38.6k</text>
 <text x="104" y="360.0" fill="#FFFFFF" font-size="13" text-anchor="end">HTML</text>
 <rect x="116" y="347.0" width="10" height="18" rx="3" fill="#00FFD0"/>
 <text x="134" y="360.0" fill="#C9D1D9" font-size="12">32k</text>
 <text x="104" y="400.0" fill="#FFFFFF" font-size="13" text-anchor="end">Shell</text>
 <rect x="116" y="387.0" width="4" height="18" rx="3" fill="#FF6600"/>
-<text x="128" y="400.0" fill="#C9D1D9" font-size="12">12.9k</text>
+<text x="128" y="400.0" fill="#C9D1D9" font-size="12">13k</text>
 <text x="104" y="440.0" fill="#FFFFFF" font-size="13" text-anchor="end">HCL</text>
 <rect x="116" y="427.0" width="2" height="18" rx="3" fill="#4DEEFF"/>
 <text x="126" y="440.0" fill="#C9D1D9" font-size="12">7.2k</text>
@@ -36,7 +36,7 @@
 <text x="126" y="480.0" fill="#C9D1D9" font-size="12">1k</text>
 <text x="104" y="520.0" fill="#FFFFFF" font-size="13" text-anchor="end">Swift</text>
 <rect x="116" y="507.0" width="2" height="18" rx="3" fill="#9F9F9F"/>
-<text x="126" y="520.0" fill="#C9D1D9" font-size="12">949</text>
+<text x="126" y="520.0" fill="#C9D1D9" font-size="12">953</text>
 <text x="104" y="560.0" fill="#FFFFFF" font-size="13" text-anchor="end">C Header</text>
 <rect x="116" y="547.0" width="2" height="18" rx="3" fill="#29B5E8"/>
 <text x="126" y="560.0" fill="#C9D1D9" font-size="12">402</text>
