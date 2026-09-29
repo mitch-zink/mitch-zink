@@ -10,7 +10,7 @@ concurrency:
 
 jobs:
   claude-review:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, mitch-zink]
     permissions:
       contents: read
       pull-requests: write
